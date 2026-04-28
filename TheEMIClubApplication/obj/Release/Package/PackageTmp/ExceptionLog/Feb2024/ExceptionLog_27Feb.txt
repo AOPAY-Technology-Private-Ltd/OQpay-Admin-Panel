@@ -1,0 +1,133 @@
+On 27-Feb-2024 02:44 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_Signup' expects parameter '@CompanyCode', which was not supplied.
+Procedure Name: usp_Signup
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch()
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 27-Feb-2024 02:45 PM, following SQL error occured in the application:
+Message: Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+Procedure Name: usp_insertBranch
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 266
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch()
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 27-Feb-2024 02:51 PM, following SQL error occured in the application:
+Message: Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+Procedure Name: usp_insertBranch
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 266
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch() in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 81
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 30
+HelpLink: 
+-------------------------------------------------------------------------------
+On 27-Feb-2024 02:52 PM, following SQL error occured in the application:
+Message: Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+Procedure Name: usp_insertBranch
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 266
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch() in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 81
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 30
+HelpLink: 
+-------------------------------------------------------------------------------
+On 27-Feb-2024 02:53 PM, following SQL error occured in the application:
+Message: Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+Procedure Name: usp_insertBranch
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 266
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch()
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 27-Feb-2024 03:00 PM, following SQL error occured in the application:
+Message: Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+Procedure Name: usp_insertBranch
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 266
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch() in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 81
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 30
+HelpLink: 
+-------------------------------------------------------------------------------
+On 27-Feb-2024 03:13 PM, following SQL error occured in the application:
+Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+Operation cancelled by user.
+Procedure Name: 
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): -2
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch() in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 81
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 30
+HelpLink: 
+-------------------------------------------------------------------------------
+On 27-Feb-2024 03:40 PM, following SQL error occured in the application:
+Message: Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+Procedure Name: usp_insertBranch
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 266
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch()
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 27-Feb-2024 03:40 PM, following SQL error occured in the application:
+Message: Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+Procedure Name: usp_insertBranch
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 266
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch()
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 27-Feb-2024 03:41 PM, following SQL error occured in the application:
+Message: Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+Procedure Name: usp_insertBranch
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 266
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch() in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 81
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 30
+HelpLink: 
+-------------------------------------------------------------------------------
+On 27-Feb-2024 03:49 PM, following SQL error occured in the application:
+Message: Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+Procedure Name: usp_insertBranch
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 266
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BankMaster.AddBranch.insertBranch() in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 81
+   at TheEMIClubApplication.BankMaster.AddBranch.btnSave_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\BankMaster\AddBranch.aspx.cs:line 30
+HelpLink: 
+-------------------------------------------------------------------------------

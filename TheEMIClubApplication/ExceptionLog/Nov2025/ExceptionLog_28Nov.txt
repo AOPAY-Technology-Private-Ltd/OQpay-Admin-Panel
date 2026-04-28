@@ -1,0 +1,10 @@
+On 28-Nov-2025 04:06 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

@@ -1,0 +1,68 @@
+On 13-Oct-2025 12:31 PM, following error occured in the application:
+Message: A field or property with the name 'txnNumber' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 183
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Oct-2025 12:32 PM, following error occured in the application:
+Message: A field or property with the name 'txnNumber' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 183
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Oct-2025 12:34 PM, following error occured in the application:
+Message: Column 'txnNumber' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 453
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Oct-2025 12:36 PM, following error occured in the application:
+Message: Column 'txnNumber' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Oct-2025 12:36 PM, following error occured in the application:
+Message: Column 'ReceiptImage_Path' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Oct-2025 12:37 PM, following error occured in the application:
+Message: Column 'ReceiptImage_Path' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+On 16-Apr-2026 12:45 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_TransferAmtToAgent' expects parameter '@FlagRemarks', which was not supplied.
+Procedure Name: usp_TransferAmtToAgent
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLTransfertoAgent.TransertoAgent() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLTransfertoAgent.cs:line 225
+   at TheEMIClubApplication.Admin.loandisburshment.TransfertoAgentDeposit() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\loandisburshment.aspx.cs:line 145
+HelpLink: 
+-------------------------------------------------------------------------------
+On 16-Apr-2026 12:50 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_TransferAmtToAgent' expects parameter '@FlagRemarks', which was not supplied.
+Procedure Name: usp_TransferAmtToAgent
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLTransfertoAgent.TransertoAgent()
+   at TheEMIClubApplication.Admin.loandisburshment.TransfertoAgentDeposit()
+HelpLink: 
+-------------------------------------------------------------------------------

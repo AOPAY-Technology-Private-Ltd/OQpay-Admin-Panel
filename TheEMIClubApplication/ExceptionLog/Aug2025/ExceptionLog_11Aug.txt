@@ -1,0 +1,82 @@
+On 11-Aug-2025 11:08 AM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 54
+HelpLink: 
+-------------------------------------------------------------------------------
+On 11-Aug-2025 02:23 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 54
+HelpLink: 
+-------------------------------------------------------------------------------
+On 11-Aug-2025 03:00 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 54
+HelpLink: 
+-------------------------------------------------------------------------------
+On 11-Aug-2025 03:53 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 54
+HelpLink: 
+-------------------------------------------------------------------------------
+On 11-Aug-2025 04:00 PM, following error occured in the application:
+Message: A field or property with the name 'SrNo' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 350
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 11-Aug-2025 04:00 PM, following error occured in the application:
+Message: A field or property with the name 'SrNo' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 350
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 11-Aug-2025 04:00 PM, following error occured in the application:
+Message: A field or property with the name 'SrNo' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 350
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 11-Aug-2025 04:00 PM, following error occured in the application:
+Message: A field or property with the name 'SrNo' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 350
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 11-Aug-2025 04:00 PM, following error occured in the application:
+Message: A field or property with the name 'SrNo' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 350
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 11-Aug-2025 04:00 PM, following error occured in the application:
+Message: A field or property with the name 'SrNo' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 350
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------

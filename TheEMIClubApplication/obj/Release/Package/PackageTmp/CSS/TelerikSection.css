@@ -1,0 +1,115 @@
+﻿
+.RadComboBox, .RadComboBox_WebBlue {
+    width: 100% !important;
+}
+
+.altrow-color {
+    background-color: #dddddd;
+    color: #000;
+}
+
+.selectname {
+}
+
+.selectname #MainContent_txtName {
+    width: 100% !important;
+    display: inline;
+    height: 80px;
+}
+
+.selectname .RadComboBox, .RadComboBox_WebBlue {
+    width: auto !important;
+}
+
+.setCtrl {
+    float: left;
+    width: 90% !important;
+}
+
+.setLnk {
+    float: right;
+    max-width: 10%;
+}
+
+.setCtrl100 {
+    width: 100% !important;
+}
+
+.form-control {
+    font-size: 1.0em;
+}
+
+.form-control.IsdStd {
+    width: 20% !important;
+    float: left;
+}
+
+.form-control.Phone {
+    width: 40% !important;
+    float: left;
+    margin-left: 0px !important;
+}
+
+.form-control.Ext {
+    width: 14%;
+    float: left;
+    margin-left: 0px;
+}
+
+.form-control.Plus {
+    width: 5%;
+    float: left;
+    margin-left: 0px;
+    text-align: center;
+    padding: 1px;
+}
+
+.topSet {
+    margin: 0 0 0 4%;
+    padding: 0 5px 5px;
+}
+
+.control-label.cb {
+    padding: 0 0 0 5%;
+}
+
+.form-control.PRType {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    width: 50%;
+}
+
+table#MainContent_chklstType {
+    width: auto;
+}
+
+table#MainContent_chklstType td {
+    padding: 0 15px 0 0;
+}
+
+table#MainContent_chklstType td input[type="checkbox"] {
+    float: left;
+}
+
+table#MainContent_chklstType td label {
+    float: left;
+    padding: 2px 0 0 2px;
+    border: 8px solid green;
+}
+
+.col-sm-12 > table {
+    margin-left: -12px;
+}
+
+#TestTable td {
+    width: 27.2%;
+}
+
+#PhoneTable td {
+    width: 27.2%;
+}
+
+.StandaloneLink {
+    float: right;
+}

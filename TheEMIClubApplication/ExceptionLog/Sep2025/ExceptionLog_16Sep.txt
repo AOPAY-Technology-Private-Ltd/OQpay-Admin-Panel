@@ -1,0 +1,58 @@
+On 16-Sep-2025 01:18 PM, following SQL error occured in the application:
+Message: Invalid object name 'BOS_MakePayments_Details_Payout'.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+Procedure Name: usp_UpdatePaymentAndTransferApproval
+LineNumber: 13
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLTransfertoAgent.PayoutApprovedRequest()
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.RejectedbyAdmin()
+HelpLink: 
+-------------------------------------------------------------------------------
+On 16-Sep-2025 04:20 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 16-Sep-2025 04:21 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 16-Sep-2025 04:33 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 16-Sep-2025 04:34 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 16-Sep-2025 04:40 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

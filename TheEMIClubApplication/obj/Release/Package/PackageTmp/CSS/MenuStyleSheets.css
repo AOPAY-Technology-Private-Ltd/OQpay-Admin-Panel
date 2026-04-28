@@ -1,0 +1,169 @@
+/* CSS Document for Menu*/
+a:hover {
+    text-decoration: none;
+}
+
+.tab_link {
+    color: #fff;
+    font-size: 14px;
+    padding: 5px 16px;
+    text-align: center;
+    border-radius: 0px;
+    position: relative;
+    height: 100%;
+    display: flex;
+    outline: 0;
+    text-decoration: none;
+    line-height: normal;
+    box-sizing: border-box;
+}
+
+    .tab_link:hover {
+        background: var(--color);
+        color: #fff;
+        text-decoration: none;
+    }
+
+table {
+    width: fit-content;
+}
+
+    table.level2 {
+        border: none;
+        padding: 0px;
+        margin: 0px;
+        width: auto;
+    }
+
+.level2 {
+    z-index: 9999;
+    width: 200px;
+    color: #333;
+    line-height: 30px;
+    font-size: 13px;
+    background: #fff;
+    text-decoration: none;
+    display: block;
+    border: 2px solid transparent;
+}
+
+    .level2:hover {
+        color: #fff;
+        line-height: 30px;
+        font-size: 13px;
+        background: var(--color);
+        text-decoration: none;
+        border: 2px solid black;
+        border-bottom: 2px solid black;
+    }
+
+table.level2 tr td a {
+    padding: 2px 0px 2px 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.level3 {
+    z-index: 1;
+    color: #000000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    font-size: medium;
+    background: #ABDFF5;
+    font: normal 11px Verdana;
+    border-top: solid 0px #000000;
+    border-right: solid 1px #000000;
+    border-bottom: solid 1px #000000;
+    border-left: solid 0px #000000;
+    text-decoration: none;
+    padding: 4px 5px;
+}
+
+    .level3:hover {
+        color: #FFFFFF;
+        background: #3AA6DE;
+        font: normal 11px Verdana;
+        border-top: solid 0px #000000;
+        border-right: solid 1px #000000;
+        border-bottom: solid 1px #000000;
+        border-left: solid 0px #000000;
+        text-decoration: none;
+        padding: 4px 5px;
+    }
+
+.level4 {
+    color: #000000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin-left: 2px;
+    background: #3AA6DE;
+    font: normal 11px Verdana;
+    border-top: solid 0px #000000;
+    border-right: solid 1px #000000;
+    border-bottom: solid 1px #000000;
+    border-left: solid 1px #000000;
+    text-decoration: none;
+    padding: 4px 5px;
+}
+
+    .level4:hover {
+        color: #FFFFFF;
+        font-family: Arial;
+        font-size: medium;
+        background: #3AA6DE;
+        margin-left: 2px;
+        font: normal 11px Verdana;
+        border-top: solid 0px #000000;
+        border-right: solid 1px #000000;
+        border-bottom: solid 1px #000000;
+        border-left: solid 1px #000000;
+        text-decoration: none;
+        padding: 4px 5px;
+    }
+
+/*Added by Pijush*/
+.nontab_link {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+    .nontab_link:hover {
+        color: #DADADA;
+        text-decoration: none;
+        font-size: 13px;
+        font-weight: normal;
+    } 
+.bg-none ctl00__AMRoleBasedMenu_5 {
+    border: 3px solid red;
+}
+#ctl00_ucFWMainMenu_AMRoleBasedMenu{
+    width: 100%;
+}
+[class*=sidebar-dark-] .sidebar a {
+    color: white;
+    background: #006AAE;
+    border: none;
+    width: 100%;
+    margin: 0px;
+}
+table.level2 {
+    background: #006AAE;
+    width: 100%;
+    width: 100%;
+}
+table.level2:hover {
+    border: none;
+}
+.ctl00_ucFWMainMenu_AMRoleBasedMenu_4 tbody tr td i{
+    color: white;
+}
+.tab_link {
+    color: white;
+    margin: 0px;
+    font-size: 15px;
+    font-weight: 600;
+}
+table {
+    width: 100%;
+}

@@ -1,0 +1,33 @@
+On 19-Sep-2024 02:52 PM, following SQL error occured in the application:
+Message: A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+Procedure Name: 
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 121
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at AVFramework.DBTask.ExecuteHashtable(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLManageUser.UserLogin() in D:\LoanManagment\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 161
+   at TheEMIClubApplication.Login.UserLogin() in D:\LoanManagment\TheEMIClubApplication\Login.aspx.cs:line 95
+HelpLink: 
+-------------------------------------------------------------------------------
+On 19-Sep-2024 02:52 PM, following SQL error occured in the application:
+Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Procedure Name: 
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 53
+SQL Server Instance: 
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AVFramework.DBTask.ExecuteHashtable(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLManageUser.UserLogin() in D:\LoanManagment\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 161
+   at TheEMIClubApplication.Login.UserLogin() in D:\LoanManagment\TheEMIClubApplication\Login.aspx.cs:line 95
+HelpLink: 
+-------------------------------------------------------------------------------

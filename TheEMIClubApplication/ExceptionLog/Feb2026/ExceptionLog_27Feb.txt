@@ -1,0 +1,7 @@
+On 27-Feb-2026 12:38 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MasterPage.RetailerDetails.Page_Load(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\RetailerDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------

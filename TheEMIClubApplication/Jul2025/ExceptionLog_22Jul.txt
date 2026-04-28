@@ -1,0 +1,13 @@
+On 22-Jul-2025 06:59 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetMenu_new'.
+Procedure Name: usp_GetMenu_new
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.35.121.85,5022
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.APPMenuBase.GetMenu() in D:\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\APPMenuBase.cs:line 56
+   at TheEMIClubApplication.Login.GetMenuData() in D:\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 169
+   at TheEMIClubApplication.Login.UserLogin() in D:\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 131
+HelpLink: 
+-------------------------------------------------------------------------------

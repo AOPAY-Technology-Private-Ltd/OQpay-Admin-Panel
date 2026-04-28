@@ -1,0 +1,96 @@
+On 08-Aug-2025 11:35 AM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 58
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Aug-2025 02:04 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 58
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Aug-2025 05:51 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 58
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Aug-2025 06:28 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_CreateMenu' expects parameter '@parmMenuHaltCode', which was not supplied.
+Procedure Name: usp_CreateMenu
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus() in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 251
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 276
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Aug-2025 06:33 PM, following SQL error occured in the application:
+Message: Procedure or function usp_CreateMenu has too many arguments specified.
+Procedure Name: usp_CreateMenu
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8144
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus()
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Aug-2025 06:33 PM, following error occured in the application:
+Message: Index was outside the bounds of the array.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus()
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Aug-2025 06:33 PM, following error occured in the application:
+Message: Index was outside the bounds of the array.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus()
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Aug-2025 06:34 PM, following error occured in the application:
+Message: Index was outside the bounds of the array.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus()
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Aug-2025 06:36 PM, following error occured in the application:
+Message: Index was outside the bounds of the array.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus()
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Aug-2025 06:36 PM, following error occured in the application:
+Message: Index was outside the bounds of the array.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus()
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Aug-2025 06:37 PM, following error occured in the application:
+Message: The SqlParameter is already contained by another SqlParameterCollection.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus()
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

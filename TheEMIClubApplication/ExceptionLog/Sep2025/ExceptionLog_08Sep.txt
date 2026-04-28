@@ -1,0 +1,88 @@
+On 08-Sep-2025 11:31 AM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication Latest\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication Latest\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Sep-2025 12:13 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication Latest\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 55
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Sep-2025 03:37 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Sep-2025 04:54 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Sep-2025 05:19 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Sep-2025 05:19 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Sep-2025 05:19 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Sep-2025 05:25 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication Latest\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 55
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Sep-2025 05:27 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication Latest\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 55
+HelpLink: 
+-------------------------------------------------------------------------------

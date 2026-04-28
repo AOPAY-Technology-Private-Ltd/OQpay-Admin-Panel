@@ -1,0 +1,86 @@
+On 09-Mar-2024 11:21 AM, following SQL error occured in the application:
+Message: Conversion failed when converting the varchar value 'user' to data type int.
+Procedure Name: usp_GetUserDetailForManageUser
+LineNumber: 27
+ErrorCode: -2146232060
+Error Number (Type of Error): 245
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 109
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Mar-2024 11:23 AM, following SQL error occured in the application:
+Message: Conversion failed when converting the varchar value 'User' to data type int.
+Procedure Name: usp_GetUserDetailForManageUser
+LineNumber: 27
+ErrorCode: -2146232060
+Error Number (Type of Error): 245
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 109
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Mar-2024 05:59 PM, following SQL error occured in the application:
+Message: A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+Procedure Name: 
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 121
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.Admin.Settlement.GetLoanApplicationforDisbursement() in D:\LoanManagment\TheEMIClubApplication\Admin\Settlement.aspx.cs:line 88
+   at TheEMIClubApplication.Admin.Settlement.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Settlement.aspx.cs:line 38
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Mar-2024 07:14 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_getApprovedLoanDetailsforDisburshment' expects parameter '@MobileNo', which was not supplied.
+Procedure Name: usp_getApprovedLoanDetailsforDisburshment
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.Collection.Collection.GetCollectionDetails() in D:\LoanManagment\TheEMIClubApplication\Collection\Collection.aspx.cs:line 96
+   at TheEMIClubApplication.Collection.Collection.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Collection\Collection.aspx.cs:line 41
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Mar-2024 07:14 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_getApprovedLoanDetailsforDisburshment' expects parameter '@MobileNo', which was not supplied.
+Procedure Name: usp_getApprovedLoanDetailsforDisburshment
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.Collection.Collection.GetCollectionDetails() in D:\LoanManagment\TheEMIClubApplication\Collection\Collection.aspx.cs:line 96
+   at TheEMIClubApplication.Collection.Collection.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Collection\Collection.aspx.cs:line 41
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Mar-2024 07:15 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_getEmiCollectionReport' expects parameter '@Loanid', which was not supplied.
+Procedure Name: usp_getEmiCollectionReport
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.Collection.Collection.GetCollectionDetails()
+   at TheEMIClubApplication.Collection.Collection.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Mar-2024 07:28 PM, following error occured in the application:
+Message: A field or property with the name 'SNo' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Collection.Collection.GetCollectionDetails()
+   at TheEMIClubApplication.Collection.Collection.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Mar-2024 07:28 PM, following error occured in the application:
+Message: A field or property with the name 'SNo' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Collection.Collection.GetCollectionDetails()
+   at TheEMIClubApplication.Collection.Collection.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

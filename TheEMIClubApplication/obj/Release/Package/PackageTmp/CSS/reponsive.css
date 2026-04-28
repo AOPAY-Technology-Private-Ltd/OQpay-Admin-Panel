@@ -1,0 +1,155 @@
+﻿@media (min-width: 320px) and (max-width: 768px) {
+    /*margin top*/
+
+    .mb-mrg-top-10 {
+        margin-top: 10px;
+    }
+
+    .mb-mrg-top-20 {
+        margin-top: 20px;
+    }
+
+    .mb-mrg-top-30 {
+        margin-top: 30px;
+    }
+
+    .mb-mrg-top-50 {
+        margin-top: 50px;
+    }
+
+    .mb-mrg-top-70 {
+        margin-top: 70px;
+    }
+
+    .mb-mrg-top-100 {
+        margin-top: 100px;
+    }
+
+    .mb-mrg-top-110 {
+        margin-top: 110px;
+    }
+
+    .mb-mrg-top-180 {
+        margin-top: 180px;
+    }
+
+    .mb-mrg-top-220 {
+        margin-top: 220px;
+    }
+
+    .mb-mrg-top-0 {
+        margin-top: 0px;
+    }
+    /*margin top*/
+
+    /*margin bottom*/
+    .mb-mrg-btm-10 {
+        margin-bottom: 10px;
+    }
+
+    .mb-mrg-btm-20 {
+        margin-bottom: 20px;
+    }
+
+    .mb-mrg-btm-30 {
+        margin-bottom: 30px;
+    }
+
+    .mb-mrg-btm-50 {
+        margin-bottom: 50px;
+    }
+
+    .mb-mrg-btm-70 {
+        margin-bottom: 70px;
+    }
+
+    .mb-mrg-btm-100 {
+        margin-bottom: 100px;
+    }
+
+    .mb-mrg-btm-110 {
+        margin-bottom: 110px;
+    }
+
+    .mb-mrg-btm-180 {
+        margin-bottom: 180px;
+    }
+
+    .mb-mrg-btm-220 {
+        margin-bottom: 220px;
+    }
+
+
+
+    /*margin bottom*/
+    .mb-pd-top-10 {
+        padding-top: 10px;
+    }
+
+    .mb-pd-top-20 {
+        padding-top: 20px;
+    }
+
+    .mb-pd-top-30 {
+        padding-top: 30px;
+    }
+
+    .mb-pd-top-220 {
+        padding-top: 220px;
+    }
+
+    /*padding bottom*/
+    .mb-pd-botn-10 {
+        padding-bottom: 10px;
+    }
+
+    .mb-pd-botn-20 {
+        padding-bottom: 20px;
+    }
+
+    .mb-pd-botn-30 {
+        padding-bottom: 30px;
+    }
+    /*padding bottom*/
+
+    .login-left {
+        display: none;
+    }
+
+    .login-right {
+        width: 100%;
+    }
+
+    .form-wrap {
+        margin: 0px 12px;
+    }
+
+    img.login-logo {
+        width: 70%;
+    }
+
+    #frmLogin .form-group {
+        width: 92%;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .wel-screen {
+        font-size: 130%;
+        text-align: center;
+        padding: 14px 0px 8px 0px;
+    }
+
+    .m-d-none {
+        display: none;
+    }
+
+    .box .box-title h3 {
+        font-size: 120%;
+        line-height: 45px;
+    }
+
+    .table-scroll {
+        overflow: auto;
+    }
+}

@@ -1,0 +1,98 @@
+On 13-Mar-2024 10:58 AM, following SQL error occured in the application:
+Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Procedure Name: 
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 53
+SQL Server Instance: 
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AVFramework.DBTask.ExecuteHashtable(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLManageUser.UserLogin() in D:\LoanManagment\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 156
+   at TheEMIClubApplication.Login.UserLogin() in D:\LoanManagment\TheEMIClubApplication\Login.aspx.cs:line 95
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Mar-2024 02:07 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforadmin()
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Mar-2024 04:23 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\CreateEmi.aspx.cs:line 85
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Mar-2024 05:39 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Collection.Collection.GetuserDetail()
+   at TheEMIClubApplication.Collection.Collection.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Mar-2024 05:41 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Collection.Collection.GetuserDetail()
+   at TheEMIClubApplication.Collection.Collection.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Mar-2024 05:42 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Collection.Collection.GetuserDetail()
+   at TheEMIClubApplication.Collection.Collection.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Mar-2024 06:17 PM, following SQL error occured in the application:
+Message: Invalid object name 'MstEmployee'.
+Procedure Name: usp_ResetPassword
+LineNumber: 30
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.ResetPassword(String userFullName, String userName) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 942
+   at TheEMIClubApplication.MembershipPages.ManageUser.gvManageUser_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 278
+HelpLink: 
+-------------------------------------------------------------------------------
+On 13-Mar-2024 07:24 PM, following SQL error occured in the application:
+Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Procedure Name: 
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 53
+SQL Server Instance: 
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AVFramework.DBTask.ExecuteHashtable(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLManageUser.UserLogin() in D:\LoanManagment\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 156
+   at TheEMIClubApplication.Login.UserLogin() in D:\LoanManagment\TheEMIClubApplication\Login.aspx.cs:line 95
+HelpLink: 
+-------------------------------------------------------------------------------

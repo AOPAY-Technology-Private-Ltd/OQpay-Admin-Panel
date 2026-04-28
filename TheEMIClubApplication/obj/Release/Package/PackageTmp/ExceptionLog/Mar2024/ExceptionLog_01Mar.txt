@@ -1,0 +1,30 @@
+On 01-Mar-2024 12:32 PM, following SQL error occured in the application:
+Message: The formal parameter "@parmOut" was not declared as an OUTPUT parameter, but the actual parameter passed in requested output.
+Procedure Name: usp_UpdatePhysicalVarification
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8162
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.UpdatPhysicalTelicaller() in D:\LoanManagment\TheEMIClubApplication\BussinessLayer\BLPersonalDetails.cs:line 82
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.UpdateTelicaller() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 148
+HelpLink: 
+-------------------------------------------------------------------------------
+On 01-Mar-2024 12:36 PM, following SQL error occured in the application:
+Message: The formal parameter "@parmOut" was not declared as an OUTPUT parameter, but the actual parameter passed in requested output.
+Procedure Name: usp_UpdatePhysicalVarification
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8162
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.UpdatPhysicalTelicaller() in D:\LoanManagment\TheEMIClubApplication\BussinessLayer\BLPersonalDetails.cs:line 82
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.UpdateTelicaller() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 148
+HelpLink: 
+-------------------------------------------------------------------------------
+On 01-Mar-2024 06:09 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

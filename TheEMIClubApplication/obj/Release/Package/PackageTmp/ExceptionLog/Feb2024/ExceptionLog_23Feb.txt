@@ -1,0 +1,10 @@
+On 23-Feb-2024 03:00 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 688
+HelpLink: 
+-------------------------------------------------------------------------------

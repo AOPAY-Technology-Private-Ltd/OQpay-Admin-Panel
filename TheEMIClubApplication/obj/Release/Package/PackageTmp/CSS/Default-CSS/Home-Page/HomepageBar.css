@@ -1,0 +1,100 @@
+﻿*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.home-page{
+    background: rgb(78, 157, 184);
+    padding: 18px;
+}
+.home-page .first-section .first-section-column-one {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.home-page .first-section .first-section-column-one h1 {
+    padding: 20px 0px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+.home-page .first-section .first-section-column-one hr{
+    color: white;
+    position: relative;
+    bottom: 5px;
+}
+.second-section{
+    margin-top: 25px; 
+}
+.second-section-column-one {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.second-section-column-bar {
+    width: 80%;
+    padding: 15px;
+    box-shadow: 0 0 3px rgba(40,96,144,0.5);
+    border-radius: 5px;
+    background: white;
+}
+.inner-box-section-One{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    padding: 5px 0px;
+}
+.inner-box-section-One img{
+    width: 50px;
+}
+.inner-box-section-One h2{
+    color: #286090;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.inner-box-section-two{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    padding: 12px 0px;
+}
+.access-button {
+    background: #286090;
+    text-decoration: none;
+    color: white;
+    padding: 6px 25px;
+    border-radius: 2px;
+    font-weight: bold;
+    letter-spacing: 1pt;
+    font-size: 11px;
+}
+.access-button:hover {
+    background: orange;
+    transition: all 0.1s ease-in-out;
+}
+.view-docs-bar {
+    text-decoration: none;
+    color: #286090;
+    font-weight: bold;
+}
+.view-docs-bar:hover {
+    color: orange;
+}
+@media screen and (max-width: 991px){
+    .second-section {
+        padding: 0px;
+    }
+    .second-section-column-one{
+        padding: 0px;
+    }
+    .second-section-column-bar {
+        width: 100%;
+        padding: 15px;
+        box-shadow: 0 0 3px rgba(40,96,144,0.5);
+        border-radius: 5px;
+        background: white;
+        margin: 4px 0px;
+    }
+}

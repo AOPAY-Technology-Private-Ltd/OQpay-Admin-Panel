@@ -1,0 +1,140 @@
+On 12-Sep-2025 12:12 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 81
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 01:09 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 01:22 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 01:56 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 02:20 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 03:01 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 03:27 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 81
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 03:44 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 03:46 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 03:49 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 04:02 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 04:34 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 04:36 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 05:10 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 81
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Sep-2025 05:41 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 81
+HelpLink: 
+-------------------------------------------------------------------------------

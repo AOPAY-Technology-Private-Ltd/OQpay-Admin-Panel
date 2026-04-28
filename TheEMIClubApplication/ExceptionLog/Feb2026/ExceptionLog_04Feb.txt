@@ -1,0 +1,99 @@
+On 04-Feb-2026 01:48 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'RefrenceID'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridPayout() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 87
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Feb-2026 01:48 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'RefrenceID'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridPayout() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 87
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Feb-2026 01:48 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'RefrenceID'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridPayout() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 87
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Feb-2026 02:57 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Services_charge_Amt'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridPayout() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 87
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Feb-2026 05:28 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Services_charge_Amt'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridPayout() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 87
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Feb-2026 05:33 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Services_charge_Amt'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridPayout() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 87
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Feb-2026 05:35 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Services_charge_Amt'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridPayout() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 87
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Feb-2026 05:39 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Services_charge_Amt'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridPayout() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 87
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Feb-2026 05:42 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Amount'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridPayout()
+HelpLink: 
+-------------------------------------------------------------------------------

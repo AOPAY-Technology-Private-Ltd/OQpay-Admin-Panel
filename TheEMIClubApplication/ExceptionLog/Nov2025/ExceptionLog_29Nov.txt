@@ -1,0 +1,144 @@
+On 29-Nov-2025 12:18 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 89
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Nov-2025 02:13 PM, following error occured in the application:
+Message: A field or property with the name 'PaidAmount' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 195
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Nov-2025 02:15 PM, following error occured in the application:
+Message: A field or property with the name 'PaidAmount' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 195
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Nov-2025 02:46 PM, following error occured in the application:
+Message: A field or property with the name 'PaidAmount' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 195
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Nov-2025 02:49 PM, following error occured in the application:
+Message: A field or property with the name 'PaidAmount' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 195
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Nov-2025 02:55 PM, following error occured in the application:
+Message: Column 'PaidAmount' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 463
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Nov-2025 04:32 PM, following error occured in the application:
+Message: Column 'PaidAmount' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Nov-2025 05:45 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_TransferAmtToAgent' expects parameter '@returnCode', which was not supplied.
+Procedure Name: usp_TransferAmtToAgent
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLTransfertoAgent.TransertoAgent() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLTransfertoAgent.cs:line 214
+   at TheEMIClubApplication.Admin.loandisburshment.TransfertoAgentDeposit() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\loandisburshment.aspx.cs:line 112
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Nov-2025 06:15 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_TransferAmtToAgent' expects parameter '@returnCode', which was not supplied.
+Procedure Name: usp_TransferAmtToAgent
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLTransfertoAgent.TransertoAgent() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLTransfertoAgent.cs:line 214
+   at TheEMIClubApplication.Admin.loandisburshment.TransfertoAgentDeposit() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\loandisburshment.aspx.cs:line 112
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Nov-2025 06:16 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 89
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Nov-2025 06:49 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_TransferAmtToAgent' expects parameter '@returnCode', which was not supplied.
+Procedure Name: usp_TransferAmtToAgent
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLTransfertoAgent.TransertoAgent()
+   at TheEMIClubApplication.Admin.loandisburshment.TransfertoAgentDeposit()
+HelpLink: 
+-------------------------------------------------------------------------------

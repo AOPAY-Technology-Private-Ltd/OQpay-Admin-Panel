@@ -1,0 +1,96 @@
+On 14-Apr-2026 12:05 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click1(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 775
+HelpLink: 
+-------------------------------------------------------------------------------
+On 14-Apr-2026 12:41 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click1(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 775
+HelpLink: 
+-------------------------------------------------------------------------------
+On 14-Apr-2026 12:41 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click1(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 775
+HelpLink: 
+-------------------------------------------------------------------------------
+On 14-Apr-2026 12:52 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 689
+HelpLink: 
+-------------------------------------------------------------------------------
+On 14-Apr-2026 12:52 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.CreateRoles() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 207
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSaveRole_Click(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 228
+HelpLink: 
+-------------------------------------------------------------------------------
+On 14-Apr-2026 12:54 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.CreateRoles() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 207
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSaveRole_Click(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 228
+HelpLink: 
+-------------------------------------------------------------------------------
+On 14-Apr-2026 12:55 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 689
+HelpLink: 
+-------------------------------------------------------------------------------
+On 14-Apr-2026 12:56 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 685
+HelpLink: 
+-------------------------------------------------------------------------------
+On 14-Apr-2026 01:03 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 694
+HelpLink: 
+-------------------------------------------------------------------------------
+On 14-Apr-2026 01:03 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 690
+HelpLink: 
+-------------------------------------------------------------------------------

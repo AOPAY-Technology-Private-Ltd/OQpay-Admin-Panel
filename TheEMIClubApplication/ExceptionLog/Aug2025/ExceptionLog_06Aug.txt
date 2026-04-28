@@ -1,0 +1,79 @@
+On 06-Aug-2025 10:22 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_GetPendingCustomer' expects parameter '@flag', which was not supplied.
+Procedure Name: usp_GetPendingCustomer
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MasterPage.RetailerDetails.GetuserDetail()
+   at TheEMIClubApplication.MasterPage.RetailerDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 06-Aug-2025 10:24 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_GetPendingCustomer' expects parameter '@flag', which was not supplied.
+Procedure Name: usp_GetPendingCustomer
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MasterPage.RetailerDetails.GetuserDetail()
+   at TheEMIClubApplication.MasterPage.RetailerDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 06-Aug-2025 10:24 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_GetPendingCustomer' expects parameter '@flag', which was not supplied.
+Procedure Name: usp_GetPendingCustomer
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MasterPage.RetailerDetails.GetuserDetail()
+   at TheEMIClubApplication.MasterPage.RetailerDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 06-Aug-2025 10:59 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_UpdateRetailerStatus' expects parameter '@CustomerCode', which was not supplied.
+Procedure Name: usp_UpdateRetailerStatus
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.RetailerStatusUpdate()
+   at TheEMIClubApplication.MasterPage.RetailerDetails.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 06-Aug-2025 11:13 AM, following error occured in the application:
+Message: Index was outside the bounds of the array.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLDealerDetails.RetailerStatusUpdate()
+   at TheEMIClubApplication.MasterPage.RetailerDetails.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 06-Aug-2025 11:29 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_ApproveUpdateActiveDealer' expects parameter '@parmMobileNo', which was not supplied.
+Procedure Name: usp_ApproveUpdateActiveDealer
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLDealerDetails.RetailerStatusUpdate() in D:\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLDealerDetails.cs:line 64
+   at TheEMIClubApplication.MasterPage.RetailerDetails.btnApprove_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\Admin\RetailerDetails.aspx.cs:line 175
+HelpLink: 
+-------------------------------------------------------------------------------
+On 06-Aug-2025 11:31 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_ApproveUpdateActiveDealer' expects parameter '@parmMobileNo', which was not supplied.
+Procedure Name: usp_ApproveUpdateActiveDealer
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLDealerDetails.RetailerStatusUpdate()
+   at TheEMIClubApplication.MasterPage.RetailerDetails.btnApprove_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

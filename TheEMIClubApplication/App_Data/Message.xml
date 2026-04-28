@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<messages>
+	<message messageId="AppTitle" messageText=""/>
+	<message messageId="AppName" messageText=""/>
+	<string name="rs">\u20B9</string>
+	<!--Information Message Section-->
+	<message messageId="INF1001" messageText="You have successfully Logged Out from the Application."/>
+
+	<message messageId="INF1004" messageText="Password changed successfully."/>
+	<message messageId="INF1005" messageText="Your Password has been sent to given Email Address, Please check your Email."/>
+	<message messageId="INF1006" messageText="Role(s) saved Successfully."/>
+
+	<message messageId="INF1007" messageText="User Created Successfully. Please assign Application."/>
+	<message messageId="INF1008" messageText="Application saved Successfully. Please assign Role(s)."/>
+	<message messageId="INF1009" messageText="Application(s) updated Successfully."/>
+
+	<message messageId="INF1010" messageText="Saved Successfully"/>
+
+	<message messageId="INF1011" messageText="Role updated Successfully."/>
+
+	<message messageId="INF1012" messageText="User details updated Successfully."/>
+
+
+	<message messageId="INF1013" messageText="Application created successfully."/>
+	<message messageId="INF1014" messageText="Application updated successfully."/>
+	<message messageId="INF1015" messageText="Role Created Successfully."/>
+
+	<message messageId="INF1016" messageText="Menu(s) saved Successfully."/>
+
+	<message messageId="INF1017" messageText="Role/Menu link Updated Successfully."/>
+	<message messageId="INF1018" messageText="Menu Created Successfully."/>
+	<message messageId="INF1019" messageText="User Status Changed Successfully."/>
+
+	<message messageId="INF1024" messageText="Role Details Updated Successfully."/>
+	<message messageId="INF1025" messageText="Menu Deatils updated Successfully."/>
+
+	<message messageId="INF1026" messageText="Company Created successfully, Company Code - '{0}'."/>
+	<message messageId="INF1027" messageText="Company '{0}' detail Updated successfully."/>
+
+	<message messageId="INF1028" messageText="Subscription '{0}' created successfully."/>
+	<message messageId="INF1029" messageText="Subscription '{0}' detail  updated successfully."/>
+
+	<message messageId="INF1030" messageText="Feature '{0}' created successfully."/>
+	<message messageId="INF1031" messageText="Feature '{0}' detail  updated successfully."/>
+
+	<message messageId="INF1032" messageText="Feature '{0}' linked successfully."/>
+	<message messageId="INF1033" messageText="Feature '{0}' detail  updated successfully."/>
+
+
+	<message messageId="INF1034" messageText="Feature Validity '{0}' linked successfully."/>
+	<message messageId="INF1035" messageText="Feature Validity '{0}' detail  updated successfully."/>
+	<message messageId="INF1036" messageText="Feature Validity '{0}' detail  renewed successfully."/>
+
+	<message messageId="INF1037" messageText="Company '{0}' detail Renewed successfully."/>
+
+	<message messageId="INF1038" messageText="Password has Reset for {0} and mail to registered email address."/>
+
+	<message messageId="INF1039" messageText="Menu Linked Successfully."/>
+
+	<message messageId="INF1040" messageText="Menu Updated Successfully."/>
+
+	<message messageId="INF1041" messageText="City '{0}' saved successfully."/>
+
+	<message messageId="INF1042" messageText="Company '{0}' deleted Permanently."/>
+
+	<message messageId="INF1043" messageText="Updated Successfully."/>
+
+
+	<message messageId="INF1044" messageText="Employee Created successfully, Emp Name - '{0}'."/>
+	<message messageId="INF1045" messageText="Employee '{0}' detail Updated successfully."/>
+
+	<!--Info related to Maintenance-->
+	<message messageId="INF1046" messageText="Maintenance Deleted Permanently."/>
+	<message messageId="INF1047" messageText="Maintenance's mails resend Successfully."/>
+
+	<!--Info related to Release Note-->
+	<message messageId="INF1048" messageText="Release Note '{0}' deleted Permanently."/>
+	<message messageId="INF1049" messageText="Release Note '{0}' Updated successfully."/>
+
+	<!--Info related to Maintenance-->
+	<message messageId="INF1050" messageText="Maintenance Rescheduled Successfully."/>
+	<message messageId="INF1051" messageText="Maintenance Status Changed Successfully."/>
+	<message messageId="INF1052" messageText="Maintenance Saved Successfully."/>
+	<message messageId="INF1053" messageText="Maintenance Updated Successfully."/>
+
+	<message messageId="INF1054" messageText="Remarks  Updated Successfully."/>
+	<message messageId="INF1055" messageText="Remarks Deleted Successfully."/>
+
+	<message messageId="INF1056" messageText="User ID created successfully.Please contact to BOS Center for Activation."/>
+	<message messageId="INF1057" messageText="Amount Transfer Successfully. "/>
+	<message messageId="INF1058" messageText="Your Request Approved SucessFully."/>
+	<message messageId="INF1064" messageText="Your Request Rejected."/>
+
+	<message messageId="INF1059" messageText="Product Services Master Created SucessFully. "/>
+	<message messageId="INF1060" messageText="Product Services Master updated SucessFully. "/>
+
+	<message messageId="INF1063" messageText="Beneficiary Reterive successfully.  "/>
+
+	<message messageId="INF1066" messageText="Amount Transfer Successfully With Amount - '{0}'."/>
+	<message messageId="INF1068" messageText="Beneficiary Created successfully.  "/>
+
+
+	<message messageId="INF1071" messageText="User Settting Save successfully.  "/>
+	<message messageId="INF1072" messageText="User Settting Update successfully.  "/>
+
+	<message messageId="INF1075" messageText="Title Created successfully.  "/>
+
+	<message messageId="INF1077" messageText="User Account details updated Successfully."/>
+
+
+	<message messageId="INF1080" messageText="Dispute Records updated Successfully."/>
+	<message messageId="INF1081" messageText="First Approved Company Pending Details Then activate user Details"/>
+	<message messageId="INF1082" messageText="Category Created successfully.  "/>
+
+	<!--Validation Message Section-->
+	<message messageId="VAL1001" messageText="Please enter Username."/>
+	<message messageId="VAL1002" messageText="Sorry, You are not authorized to view this page."/>
+
+	<message messageId="VAL1012" messageText="Please enter {0} ."/>
+	<!-- Message Id Declared  In SP-->
+
+	<message messageId="VAL1013" messageText="Validation Error(s)..."/>
+	<message messageId="VAL1014" messageText="Please enter Old Password."/>
+	<message messageId="VAL1015" messageText="Please enter New Password."/>
+	<message messageId="VAL1016" messageText="Please re-enter New Password."/>
+	<message messageId="VAL1017" messageText="New Password and Confirm Password should be same."/>
+	<message messageId="VAL1018" messageText="Password should be consist of {0} to {1} characters, 
+           contains at least one digit, one alphabetic character, and must not contain special characters."/>
+	<message messageId="VAL1019" messageText="Please enter Email Address."/>
+	<message messageId="VAL1020" messageText="Please enter Valid Email Address."/>
+	<message messageId="VAL1021" messageText="Please select {0}."/>
+	<message messageId="VAL1021" messageText="Please select {0}."/>
+	<message messageId="VAL1022" messageText="Please select Employee."/>
+	<message messageId="VAL1023" messageText="Please enter Nick Name."/>
+	<message messageId="VAL1024" messageText="Please select Application Name."/>
+	<message messageId="VAL1025" messageText="Please enter Allowed days to view Report"/>
+	<message messageId="VAL1026" messageText="Please enter only non-negative numbers without space."/>
+
+	<message messageId="VAL1027" messageText="Please select Menu Scope."/>
+	<message messageId="VAL1028" messageText="Please enter Role Name."/>
+
+	<message messageId="VAL1029" messageText="Please enter valid number only."/>
+	<message messageId="VAL1030" messageText="Please enter Menu Name."/>
+
+	<message messageId="VAL1031" messageText="Please enter Application Code."/>
+	<message messageId="VAL1032" messageText="Please enter Application Name."/>
+
+	<message messageId="VAL1046" messageText="First Name is required."/>
+	<message messageId="VAL1047" messageText="Last Name is required."/>
+
+	<message messageId="VAL1056" messageText="User details could not updated."/>
+
+
+	<message messageId="VAL1065" messageText="{0} is required."/>
+
+	<message messageId="VAL1068" messageText="{0} is Invalid ."/>
+
+	<message messageId="VAL1073" messageText="Allowed days can not exceed Maximum allowed days limit."/>
+
+	<message messageId="VAL1081" messageText="'{0}' Application can not be Deactivated."/>
+
+	<message messageId="VAL1082" messageText="Please enter Menu Name"/>
+	<message messageId="VAL1083" messageText="Please provide valid text, make sure it does not containt special char for '{0}'"/>
+	<message messageId="VAL1084" messageText="Address cannot exceed text length more than 250 character."/>
+	<message messageId="VAL1085" messageText="'{0}' cannot exceed text length more than '{1}' character."/>
+
+	<message messageId="VAL1086" messageText="'{0}' City already exists."/>
+
+	<message messageId="VAL1087" messageText="'{0}' Zip already exists."/>
+	<message messageId="VAL1088" messageText="Phone No. already mapped with this divison"/>
+	<message messageId="VAL1089" messageText="Space not allowed"/>
+
+	<message messageId="VAL1090" messageText="Sorry, Your Credit Balane Is lesh then Your Debit Balance.  "/>
+	<message messageId="VAL1091" messageText="Sorry,You can Not transfer More then Your Debit Balance.  "/>
+	<message messageId="VAL1097" messageText="Sorry,You can Not transfer More then Your Credit Balance.  "/>
+	<message messageId="VAL1092" messageText="Sorry,Your subscription has expired. please Renew your subscription to continew Payout .  "/>
+
+	<message messageId="VAL1093" messageText="Please enter Holding Amount"/>
+
+
+	<message messageId="VAL1105" messageText="Please select User Name."/>
+	<message messageId="VAL1106" messageText="Please enter no of missing entry."/>
+	<message messageId="VAL1107" messageText="Please enter no of transaction entry"/>
+
+	<message messageId="VAL1108" messageText="Please enter Mimimum Amount For Payout."/>
+	<message messageId="VAL1109" messageText="Please enter Maximum Amount For Payout. "/>
+
+	<message messageId="VAL1010" messageText="Sorry,You're not eligible for Credit to Debit Transaction.please contact BOS Center Support Team."/>
+
+
+	<!--Error Message Section-->
+	<message messageId="ERR1001" messageText="Invalid Username/Password."/>
+	<message messageId="ERR1002" messageText="Nickname already exist."/>
+
+	<message messageId="ERR1004" messageText="Application(s) not saved."/>
+	<message messageId="ERR1005" messageText="No item selected."/>
+	<message messageId="ERR1006" messageText="Role(s) not saved.."/>
+
+	<message messageId="ERR1007" messageText="An exception occurred, please contact BOS Center Support Team."/>
+	<message messageId="ERR1008" messageText="Password not changed. Please try later."/>
+	<message messageId="ERR1009" messageText="Invalid Username/Email Address."/>
+
+	<message messageId="ERR1011" messageText="Application(s) could not updated."/>
+
+	<message messageId="ERR1012" messageText="Role(s) could not be updated."/>
+
+
+	<message messageId="ERR1013" messageText="RoleName already exist.."/>
+	<message messageId="ERR1014" messageText="Menu could not created."/>
+	<message messageId="ERR1015" messageText="Menu could not updated."/>
+	<message messageId="ERR1016" messageText="Role/Menu link could not updated."/>
+	<message messageId="ERR1017" messageText="Application already exist."/>
+	<message messageId="ERR1018" messageText="Application could not created."/>
+	<message messageId="ERR1019" messageText="Application could not updated."/>
+	<message messageId="ERR1020" messageText="Menu(s) not saved."/>
+
+
+
+	<!--Below message id used in sp - usp_AssignPickup-->
+
+	<message messageId="ERR1026" messageText="You can not assign a Menu as Parent of its Parent."/>
+	<message messageId="ERR1027" messageText="'{0}' can not greater than '{1}'"/>
+	<message messageId="ERR1028" messageText="'{0}' is invalid."/>
+	<message messageId="ERR1029" messageText="'{0}' is invalid."/>
+	<message messageId="ERR1030" messageText="Role could not be created."/>
+
+	<message messageId="ERR1032" messageText="Role Details could not updated."/>
+
+	<message messageId="ERR1033" messageText="Password can't be reset. Please try later."/>
+
+	<message messageId="ERR1048" messageText="MenuName already exists."/>
+
+	<message messageId="ERR1049" messageText="Company name already exists."/>
+	<message messageId="ERR1050" messageText="Subscription name already exists."/>
+	<message messageId="ERR1051" messageText="Feature name already exists."/>
+
+	<message messageId="ERR1052" messageText="Feature already mapped but deactivated."/>
+	<message messageId="ERR1053" messageText="At least one menu must be selected."/>
+
+	<message messageId="ERR1054" messageText="Maintenance already exists on given dates."/>
+
+	<!--Added new error messages : Chetna-->
+	<message messageId="ERR1055" messageText="Sorry, You can't downgrade Limit."/>
+	<message messageId="ERR1056" messageText="Sorry, You can't change Driver Limit."/>
+	<message messageId="ERR1057" messageText="Sorry, You can't change Subscription. Kindly Decrease your Truck Limit."/>
+	<message messageId="ERR1058" messageText="Sorry, You can't change Subscription. Kindly Decrease your Trailer Limit."/>
+	<message messageId="ERR1059" messageText="Enter at least one IPAddress."/>
+	<message messageId="ERR1060" messageText="User Limit cant set 0."/>
+	<message messageId="ERR1061" messageText="Driver App Limit cant set 0."/>
+	<message messageId="ERR1062" messageText="Sorry, You can't downgrade your Driver App Limit."/>
+	<message messageId="ERR1063" messageText="Sorry, SMS Dispatch Feature does not have in this Subscription."/>
+	<message messageId="ERR1065" messageText="Sorry, Your Driver App limit should be less then driver limit in subscription."/>
+
+	<message messageId="ERR1064" messageText="Select atleast one option in seacrhing criteria."/>
+
+	<!--Error related to Maintenance-->
+	<message messageId="ERR1066" messageText="Maintenance Start Date should be less than End Date"/>
+	<message messageId="ERR1067" messageText="Maintenance Start Time should be less than End Time"/>
+	<message messageId="ERR1068" messageText="Maintenance Start Date should be 3 days ago from today."/>
+	<message messageId="ERR1069" messageText="Unable to send Email write now."/>
+
+	<!--Error related to Maintenance-->
+	<message messageId="ERR1070" messageText="Version No and Reference can not be same."/>
+	<message messageId="ERR1071" messageText="Version Date should not be less than today."/>
+	<message messageId="ERR1072" messageText="Version No Already Exist."/>
+
+	<!--Error related to Change Password-->
+	<message messageId="ERR1073" messageText="Old Password should not be match with last 3 passwords."/>
+	<message messageId="ERR1074" messageText="Invalid Password."/>
+	<message messageId="ERR1075" messageText="Email Body is required."/>
+
+	<message messageId="ERR1076" messageText="Unable to Resend mails."/>
+	<!--Error related to Maintenance-->
+	<message messageId="ERR1077" messageText="You can not set Status 'Done' Today.'"/>
+
+	<!--Error related to Remarks of Maintenance-->
+	<message messageId="ERR1078" messageText="Reschedule Remarks are required."/>
+	<message messageId="ERR1079" messageText="Status Change Remarks are required."/>
+
+	<message messageId="ERR1080" messageText="Feature already mapped and activated."/>
+	<message messageId="ERR1081" messageText="You can not set Status 'In Progress' Today."/>
+
+	<message messageId="ERR1082" messageText="Sorry, PC MILER in not in this subscription"/>
+	<message messageId="ERR1083" messageText="Sorry, SMS Dispatch in not in this subscription"/>
+	<message messageId="ERR1084" messageText="Sorry, ACE/ACI Account Credentials are not validated."/>
+	<message messageId="ERR1085" messageText="Please Select Employee"/>
+
+	<message messageId="ERR1087" messageText="Please Enter a Valid Amount."/>
+
+	<message messageId="ERR1088" messageText="Your Account Number Allreday Exits In Beneficiary Details."/>
+
+
+	<message messageId="ERR1089" messageText="Please Enter a Valid Amount."/>
+	<message messageId="ERR1090" messageText="API Allready Exists With Slab and Amount"/>
+
+	<message messageId="ERR1091" messageText="Error While Updating"/>
+
+	<message messageId="ERR1094" messageText="Soory No Beneficiary Details Founds  agenest This Account No "/>
+
+	<message messageId="ERR1095" messageText="Sorry,You can Not transfer More then Your Debit Balance.  "/>
+	<message messageId="ERR1096" messageText="Sorry,Please Enter Valid Amount  "/>
+	<message messageId="ERR1097" messageText="Soory No Beneficiary Details Found "/>
+
+	<message messageId="ERR1098" messageText="Sorry,Please Enter Valid Acount No  "/>
+	<message messageId="ERR1099" messageText="Soory Please Enter Valid IFSC Code "/>
+
+	<message messageId="ERR1100" messageText="Records Allreday Exits"/>
+
+	<message messageId="ERR1101" messageText="Soory,You can Not Transfer Out of your Slab"/>
+
+	<message messageId="ERR1102" messageText="Kindaly Enter Valid  Minimum Amount.Your Minimum Amount can not lesh than {0}"/>
+	<message messageId="ERR1103" messageText="Kindaly Enter Valid  Maximum Amount.Your Maximum Amount can not Grater than {0}"/>
+	<message messageId="ERR1104" messageText="First Approved Company Pending Details Then activate user Details"/>
+    <message messageId="ERR1115" messageText="Please Enter ROI"/>
+	<message messageId="ERR1116" messageText="Enter Valid Loan Amount"/>
+	<message messageId="ERR1117" messageText=""/>
+	<message messageId="ERR1118" messageText="Enter Valid Loan Amount"/>
+		<message messageId="ERR1119" messageText="Enter Valid Loan Amount"/>
+
+
+	<!--Normal Message Section-->
+	<message messageId="MSG1001" messageText="No record(s) found."/>
+	<message messageId="MSG1002" messageText="No record(s) found to export."/>
+	<message messageId="MSG1003" messageText="{0} Tried to access the URL '{1}', which is not accessible to him."/>
+
+
+	<message messageId="MSG1009" messageText="No Role Defined"/>
+	<message messageId="MSG1010" messageText="Role having 'ALL' as Menu Scope, can not be Deactivated."/>
+
+	<message messageId="MSG1011" messageText="No remark(s) found."/>
+	<!--End of Below message id used in sp - usp_GetVehicleLocatorDashboard-->
+	<!--Confirmation Message Section-->
+	<message messageId="CNF1001" messageText="Are you sure to "/>
+	<message messageId="CNF1002" messageText="reset the password for, "/>
+
+	<!--Misc. Message Section-->
+	<message messageId="MISC1001" messageText="Test misc. message"/>
+	<message messageId="MISC1002" messageText="Forgot Password Mail (AFMManager)" />
+	<message messageId="MISC1003" messageText="{0} should be less than {1}." />
+
+	<!--Configurable Images-->
+	<message messageId="IMG1001" messageText="Images/Success.png"/>
+	<message messageId="IMG1002" messageText="Images/Validation.png"/>
+	<message messageId="IMG1003" messageText="Images/Error.png"/>
+	<message messageId="IMG1004" messageText="Images/Question.png"/>
+
+	<!--Configurable Alerts-->
+	<!--Forgot Password Mail-->
+	<message messageId="ALRT1001" messageText="AL0001"/>
+	<message messageId="ALRT1002" messageText="AL0007"/>
+
+
+	<message messageId="WALL1001" messageText="Wallet Transfer Successfully."/>
+
+</messages>

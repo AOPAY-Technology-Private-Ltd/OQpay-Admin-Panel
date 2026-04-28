@@ -1,0 +1,59 @@
+On 12-Dec-2025 02:51 PM, following error occured in the application:
+Message: Login failed for user 'sa'.
+Cannot continue the execution because the session is in the kill state.
+A severe error occurred on the current command.  The results, if any, should be discarded.
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLTransfertoAgent.getCompanyholdamount() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLTransfertoAgent.cs:line 391
+   at TheEMIClubApplication.MasterPage.LoanApproval.GetHoldingAmt() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\LoanApproval.aspx.cs:line 469
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Dec-2025 02:54 PM, following SQL error occured in the application:
+Message: Login failed for user 'sa'.
+Procedure Name: 
+LineNumber: 65536
+ErrorCode: -2146232060
+Error Number (Type of Error): 18456
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AVFramework.DBTask.ExecuteHashtable(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLManageUser.UserLogin() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 161
+   at TheEMIClubApplication.Login.UserLogin() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 207
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Dec-2025 02:55 PM, following SQL error occured in the application:
+Message: Login failed for user 'sa'.
+Procedure Name: 
+LineNumber: 65536
+ErrorCode: -2146232060
+Error Number (Type of Error): 18456
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AVFramework.DBTask.ExecuteHashtable(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLManageUser.UserLogin() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 161
+   at TheEMIClubApplication.Login.UserLogin() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 207
+HelpLink: 
+-------------------------------------------------------------------------------

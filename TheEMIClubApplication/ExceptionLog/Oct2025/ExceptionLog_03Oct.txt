@@ -1,0 +1,373 @@
+On 03-Oct-2025 03:15 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.CreateRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 206
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSaveRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 227
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:15 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click1(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 774
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:18 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.CreateRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 206
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSaveRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 227
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:18 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.CreateRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 206
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSaveRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 227
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:22 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.CreateRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 206
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSaveRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 227
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:32 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.CreateRoles()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSaveRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:32 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click1(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:34 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click1(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:35 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:36 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:39 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: System.Web
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:39 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:39 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:40 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:41 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:42 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:44 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:45 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: System.Web
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:45 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:47 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:48 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:48 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:48 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:49 PM, following error occured in the application:
+Message: 'ddlApplicationName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.ClearAll()
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:50 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click1(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:57 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:57 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 03:59 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 04:00 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 268
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 04:01 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 689
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 04:01 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 685
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 04:02 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 689
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 04:08 PM, following error occured in the application:
+Message: A field or property with the name 'CreatedDatetime' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 113
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 04:08 PM, following error occured in the application:
+Message: A field or property with the name 'CreatedDatetime' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 113
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 04:08 PM, following error occured in the application:
+Message: A field or property with the name 'CreatedDatetime' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 113
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 04:08 PM, following error occured in the application:
+Message: A field or property with the name 'CreatedDatetime' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 113
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 04:08 PM, following error occured in the application:
+Message: A field or property with the name 'CreatedDatetime' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 113
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 04:08 PM, following error occured in the application:
+Message: A field or property with the name 'CreatedDatetime' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 113
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 05:17 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_UpdateUserActiveOrInactive'.
+Procedure Name: usp_UpdateUserActiveOrInactive
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.UpdateUserActiveOrInactive()
+   at TheEMIClubApplication.MembershipPages.ManageUser.gvManageUser_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 05:22 PM, following error occured in the application:
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail()
+   at TheEMIClubApplication.MembershipPages.ManageUser.gvManageUser_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 05:22 PM, following error occured in the application:
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail()
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 05:22 PM, following error occured in the application:
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail()
+   at TheEMIClubApplication.MembershipPages.ManageUser.gvManageUser_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 05:23 PM, following error occured in the application:
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail()
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 05:24 PM, following error occured in the application:
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail()
+   at TheEMIClubApplication.MembershipPages.ManageUser.gvManageUser_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Oct-2025 07:24 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

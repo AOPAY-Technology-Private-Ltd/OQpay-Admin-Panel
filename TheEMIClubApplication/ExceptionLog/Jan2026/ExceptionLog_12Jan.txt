@@ -1,0 +1,95 @@
+On 12-Jan-2026 11:04 AM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 89
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Jan-2026 12:35 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.ShowAssignEmiDetailstoEmployee.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Jan-2026 12:37 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.ShowAssignEmiDetailstoEmployee.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Jan-2026 02:17 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.Admin.ShowAssignEmiDetailstoEmployee.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\ShowAssignEmiDetailstoEmployee.aspx.cs:line 49
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Jan-2026 02:17 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.Admin.ShowAssignEmiDetailstoEmployee.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\ShowAssignEmiDetailstoEmployee.aspx.cs:line 49
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Jan-2026 02:17 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.Admin.ShowAssignEmiDetailstoEmployee.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\ShowAssignEmiDetailstoEmployee.aspx.cs:line 49
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Jan-2026 02:22 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.Admin.ShowAssignEmiDetailstoEmployee.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\ShowAssignEmiDetailstoEmployee.aspx.cs:line 49
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Jan-2026 02:26 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.Admin.ShowAssignEmiDetailstoEmployee.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Jan-2026 02:30 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.Admin.ShowAssignEmiDetailstoEmployee.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\ShowAssignEmiDetailstoEmployee.aspx.cs:line 49
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Jan-2026 02:32 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.Admin.ShowAssignEmiDetailstoEmployee.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Jan-2026 03:45 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 89
+HelpLink: 
+-------------------------------------------------------------------------------

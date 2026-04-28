@@ -1,0 +1,543 @@
+On 09-Sep-2025 10:30 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetLOVForYNFlags'.
+Procedure Name: usp_GetLOVForYNFlags
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.GetActive_YNList(DropDownList ddlControlId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1100
+   at TheEMIClubApplication.MembershipPages.ManageRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 35
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:32 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetLOVForYNFlags'.
+Procedure Name: usp_GetLOVForYNFlags
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.GetActive_YNList(DropDownList ddlControlId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1100
+   at TheEMIClubApplication.MembershipPages.ManageRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 35
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:36 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetRuleNConfigValue'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:36 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetRuleNConfigValue'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:36 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetRuleNConfigValue'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.btnSearch_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 281
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:36 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetRuleNConfigValue'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.btnSearch_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 281
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:37 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:37 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:38 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetRuleNConfigValue'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:38 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetRuleNConfigValue'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.btnSearch_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 281
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:43 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetRuleNConfigValue'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:43 AM, following SQL error occured in the application:
+Message: Invalid object name 'MstRuleNConfig'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 18
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:43 AM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.MembershipPages.ManageRole.imgbtnPlus_Click(Object sender, ImageClickEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 325
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:43 AM, following SQL error occured in the application:
+Message: Invalid object name 'MstRuleNConfig'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 18
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:44 AM, following SQL error occured in the application:
+Message: Invalid object name 'MstRuleNConfig'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 18
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.btnSearch_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 281
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:45 AM, following SQL error occured in the application:
+Message: Invalid object name 'MstRuleNConfig'.
+Procedure Name: usp_GetRuleNConfigValue
+LineNumber: 18
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageRole.GetRoleDetailForEdit() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 159
+   at TheEMIClubApplication.MembershipPages.ManageRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageRole.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:46 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:48 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:52 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:53 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:53 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:53 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:54 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:55 AM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnClearRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 267
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 10:57 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 11:00 AM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 11:03 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_UpdateRoleMenuLink'.
+Procedure Name: usp_UpdateRoleMenuLink
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.UpdateRoleDetail() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 558
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSave_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 348
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 11:15 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_UpdateRoleMenuLink'.
+Procedure Name: usp_UpdateRoleMenuLink
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.UpdateRoleDetail() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 558
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSave_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 348
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 11:15 AM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 684
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 11:16 AM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 684
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 11:18 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_CreateRole'.
+Procedure Name: usp_CreateRole
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.CreateRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 202
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSaveRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 227
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 11:26 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_CreateRole'.
+Procedure Name: usp_CreateRole
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateRole.CreateRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 202
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnSaveRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 227
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 11:27 AM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 688
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 11:57 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetSelectedAppForManageUser'.
+Procedure Name: usp_GetSelectedAppForManageUser
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLManageUser.GetSelectedAppForManageUser() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 623
+   at TheEMIClubApplication.MembershipPages.ManageUser.gvManageUser_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 173
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 12:00 PM, following SQL error occured in the application:
+Message: Invalid object name 'MstUserApplicationLink'.
+Procedure Name: usp_GetSelectedAppForManageUser
+LineNumber: 7
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLManageUser.GetSelectedAppForManageUser() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 623
+   at TheEMIClubApplication.MembershipPages.ManageUser.gvManageUser_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 173
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 12:05 PM, following SQL error occured in the application:
+Message: Invalid object name 'MstUserApplicationLink'.
+Procedure Name: usp_GetSelectedAppForManageUser
+LineNumber: 7
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLManageUser.GetSelectedAppForManageUser() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 623
+   at TheEMIClubApplication.MembershipPages.ManageUser.gvManageUser_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 173
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 12:05 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_UpdateUserAppLink'.
+Procedure Name: usp_UpdateUserAppLink
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.UpdateSelectedApplications() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 538
+   at TheEMIClubApplication.MembershipPages.ManageUser.btnUpdateApplication_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 669
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 12:08 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetSelectedApplications'.
+Procedure Name: usp_GetSelectedApplications
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLManageUser.GetSelectedAppList(DropDownList ddlControlId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 328
+   at TheEMIClubApplication.MembershipPages.ManageUser.gvManageUser_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 251
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 12:10 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetSelectedRoleForManageUser'.
+Procedure Name: usp_GetSelectedRoleForManageUser
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetSelectedRoleForManageUser() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 759
+   at TheEMIClubApplication.MembershipPages.ManageUser.ddlApplication_SelectedIndexChanged(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 705
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 12:14 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.MembershipPages.CreateRole.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 12:38 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_UpdateUserRoleLink'.
+Procedure Name: usp_UpdateUserRoleLink
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.UpdateSelectedRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 651
+   at TheEMIClubApplication.MembershipPages.ManageUser.btnUpdateRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 687
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 12:42 PM, following SQL error occured in the application:
+Message: Cannot insert the value NULL into column 'URLid', table 'OQFinancedb.dbo.MstUserRoleLink'; column does not allow nulls. INSERT fails.
+Invalid object name 'Users'.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.
+The statement has been terminated.
+Procedure Name: usp_UpdateUserRoleLink
+LineNumber: 34
+ErrorCode: -2146232060
+Error Number (Type of Error): 515
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.UpdateSelectedRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 651
+   at TheEMIClubApplication.MembershipPages.ManageUser.btnUpdateRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 687
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 12:48 PM, following SQL error occured in the application:
+Message: Cannot insert the value NULL into column 'URLid', table 'OQFinancedb.dbo.MstUserRoleLink'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+Procedure Name: usp_UpdateUserRoleLink
+LineNumber: 34
+ErrorCode: -2146232060
+Error Number (Type of Error): 515
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.UpdateSelectedRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 651
+   at TheEMIClubApplication.MembershipPages.ManageUser.btnUpdateRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 687
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 12:49 PM, following SQL error occured in the application:
+Message: Cannot insert the value NULL into column 'URLid', table 'OQFinancedb.dbo.MstUserRoleLink'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+Procedure Name: usp_UpdateUserRoleLink
+LineNumber: 34
+ErrorCode: -2146232060
+Error Number (Type of Error): 515
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.UpdateSelectedRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 651
+   at TheEMIClubApplication.MembershipPages.ManageUser.btnUpdateRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 687
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 01:10 PM, following SQL error occured in the application:
+Message: Cannot insert the value NULL into column 'URLid', table 'OQFinancedb.dbo.MstUserRoleLink'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+Procedure Name: usp_UpdateUserRoleLink
+LineNumber: 34
+ErrorCode: -2146232060
+Error Number (Type of Error): 515
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.UpdateSelectedRoles() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 651
+   at TheEMIClubApplication.MembershipPages.ManageUser.btnUpdateRole_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 687
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 01:11 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 55
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 01:16 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetSelectedReportForManageUser'.
+Procedure Name: usp_GetSelectedReportForManageUser
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.197.77.239,2488
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLManageUser.GetSelectedReportForManageUser() in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 1578
+   at TheEMIClubApplication.MembershipPages.ManageUser.gvManageUser_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 210
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 01:28 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 02:13 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 02:15 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 02:51 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 09-Sep-2025 03:03 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------

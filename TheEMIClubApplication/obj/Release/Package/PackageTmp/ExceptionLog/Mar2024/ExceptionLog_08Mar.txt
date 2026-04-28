@@ -1,0 +1,38 @@
+On 08-Mar-2024 12:26 PM, following SQL error occured in the application:
+Message: Procedure or function usp_payoutTransferamounttoagent_APPROVE has too many arguments specified.
+Procedure Name: usp_payoutTransferamounttoagent_APPROVE
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8144
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.ApprovedEMI()
+   at TheEMIClubApplication.Admin.EMIRequestApproveds.EmiApproved()
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Mar-2024 12:34 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_ApprovedEmiRequest' expects parameter '@loanID', which was not supplied.
+Procedure Name: usp_ApprovedEmiRequest
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.ApprovedEMI()
+   at TheEMIClubApplication.Admin.EMIRequestApproveds.EmiApproved()
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Mar-2024 02:43 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.Disbursement.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 08-Mar-2024 06:58 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

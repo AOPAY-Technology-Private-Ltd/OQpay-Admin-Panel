@@ -1,0 +1,28 @@
+On 29-Feb-2024 02:25 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_GetRoleDetailForUpdate' expects parameter '@parmRoleCode', which was not supplied.
+Procedure Name: usp_GetRoleDetailForUpdate
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateUsers.GetuserDetail() in D:\LoanManagment\TheEMIClubApplication\MembershipPages\CreateUsers.aspx.cs:line 168
+   at TheEMIClubApplication.MembershipPages.CreateUsers.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\CreateUsers.aspx.cs:line 41
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Feb-2024 06:23 PM, following error occured in the application:
+Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetuserDetail() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 115
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 29-Feb-2024 06:25 PM, following error occured in the application:
+Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetuserDetail()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

@@ -1,0 +1,720 @@
+On 25-Jul-2025 10:14 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 10:34 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 10:45 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 10:47 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 10:49 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 10:53 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 10:54 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 10:57 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 10:58 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation()
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 10:58 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation()
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 11:00 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation()
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 11:25 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 11:27 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 11:52 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 11:54 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 12:01 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 12:20 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 12:24 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 12:26 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 12:29 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 12:34 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 12:44 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 12:55 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 01:05 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 01:09 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 01:12 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 01:15 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 02:05 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 02:07 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 02:09 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 02:11 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 02:22 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 02:34 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 02:48 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 02:57 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 03:05 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 03:10 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 03:15 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 03:38 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 03:44 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 03:47 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 03:54 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 03:57 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 04:19 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 04:26 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 04:49 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 04:56 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 05:01 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 05:04 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 05:09 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 05:20 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 05:21 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 05:24 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 05:42 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 06:25 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 06:29 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 06:32 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 06:38 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 06:47 PM, following SQL error occured in the application:
+Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+Procedure Name: 
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): -2
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 329
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Jul-2025 07:02 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 360
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------

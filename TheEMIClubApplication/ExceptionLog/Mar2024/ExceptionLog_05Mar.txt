@@ -1,0 +1,102 @@
+On 05-Mar-2024 12:13 PM, following error occured in the application:
+Message: A field or property with the name 'Loandid' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.BindGridView(String loanid) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 76
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 05-Mar-2024 01:04 PM, following error occured in the application:
+Message: A field or property with the name 'FileType' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.BindGridView(String loanid)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 05-Mar-2024 03:10 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 05-Mar-2024 03:10 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 05-Mar-2024 03:10 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 05-Mar-2024 03:10 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 05-Mar-2024 04:23 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 05-Mar-2024 04:23 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 05-Mar-2024 04:25 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 05-Mar-2024 04:26 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 05-Mar-2024 04:37 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------

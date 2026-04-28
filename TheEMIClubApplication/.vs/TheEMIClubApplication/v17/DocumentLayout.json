@@ -1,0 +1,1294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|d:\\theemiclubapplication\\theemiclubapplication\\theemiclubapplication\\theemiclubapplication\\admin\\loanfollowup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\loanfollowup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\loanfollowup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\loanfollowup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\masterpage\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\masterpage\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\masterpage\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\masterpage\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\payoutpaymentapproval.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\payoutpaymentapproval.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\payoutpaymentapproval.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\payoutpaymentapproval.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\loanapproval.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\loanapproval.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\loanapproval.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\loanapproval.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\assignloanapplication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\assignloanapplication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\approvedbankdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\approvedbankdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\customermaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\customermaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\emidetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\emidetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\emimaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\emimaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\loandisburshment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\loandisburshment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\loanmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\loanmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\managecustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\managecustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\managedisburshment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\managedisburshment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\manageemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\manageemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\manageemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\manageemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\manageretailer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\manageretailer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\managevariant.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\managevariant.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\loanapproval.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\loanapproval.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\makepaymentapproval.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\makepaymentapproval.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\makepaymentapproval.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\makepaymentapproval.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\reports\\reports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\reports\\reports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\reports\\emipendingreports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\reports\\emipendingreports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\reports\\transactionreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\reports\\transactionreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\bussinesslayer\\blbankdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\bussinesslayer\\blbankdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\adminbankdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\adminbankdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\adminbankdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\adminbankdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\bussinesslayer\\bltransfertoagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\bussinesslayer\\bltransfertoagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\bussinesslayer\\blmakepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\bussinesslayer\\blmakepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\bussinesslayer\\blloanapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\bussinesslayer\\blloanapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\createvariantmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\createvariantmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\createvariantmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\createvariantmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\bussinesslayer\\bldevicemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\bussinesslayer\\bldevicemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\brandmodemaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\brandmodemaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\brandmodemaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\brandmodemaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\brandmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\brandmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\managevariant.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\managevariant.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\commonpages\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\commonpages\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\membershippages\\createrole.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\membershippages\\createrole.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\membershippages\\createrole.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\membershippages\\createrole.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\loandisburshment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\loandisburshment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\customerphotoupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\customerphotoupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\managedisburshment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\managedisburshment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\commonpages\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\commonpages\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\managecustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\managecustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\approvedbankdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\approvedbankdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\membershippages\\manageuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\membershippages\\manageuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\membershippages\\manageuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\membershippages\\manageuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\bussinesslayer\\blreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\bussinesslayer\\blreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\bussinesslayer\\blsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\bussinesslayer\\blsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\bussinesslayer\\blemidetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\bussinesslayer\\blemidetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\reports\\emipendingreports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\reports\\emipendingreports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\comapnymst.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\comapnymst.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\comapnymst.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\comapnymst.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\bussinesslayer\\blcompanydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\bussinesslayer\\blcompanydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\customerloandetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\customerloandetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\customerloandetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\customerloandetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\brandmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\brandmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\devicevariantmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\devicevariantmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\retailerdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\retailerdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\retailerdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\retailerdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\manageretailer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\manageretailer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\bussinesslayer\\blemployeemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\bussinesslayer\\blemployeemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\createemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\createemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\admin\\createemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\admin\\createemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\customerdetails\\personaldetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\customerdetails\\personaldetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\membershippages\\managerole.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\membershippages\\managerole.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\appcode\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\appcode\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\theemiclubapplication\\membershippages\\managerole.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A27B98E-6F2F-4D6F-9000-20D56DD3DFD4}|TheEMIClubApplication\\TheEMIClubApplication.csproj|solutionrelative:theemiclubapplication\\membershippages\\managerole.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 257,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanFollowUp.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanFollowUp.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\LoanFollowUp.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanFollowUp.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\LoanFollowUp.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:57:05.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\NotificationService.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\NotificationService.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\NotificationService.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\NotificationService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:43:55.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\NotificationHub.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\NotificationHub.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:43:53.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoanApproval.aspx.designer.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanApproval.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\LoanApproval.aspx.designer.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanApproval.aspx.designer.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\LoanApproval.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:36:35.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssignLoanApplication.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\AssignLoanApplication.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\AssignLoanApplication.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\AssignLoanApplication.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\AssignLoanApplication.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-17T05:36:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EMIDetails.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\EMIDetails.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\EMIDetails.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\EMIDetails.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\EMIDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-17T05:35:34.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EMIMaster.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\EMIMaster.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\EMIMaster.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\EMIMaster.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\EMIMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-17T05:35:26.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoanMaster.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanMaster.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\LoanMaster.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanMaster.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\LoanMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-17T05:34:52.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Reports.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Reports\\Reports.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Reports\\Reports.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Reports\\Reports.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Reports\\Reports.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-17T05:03:08.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransactionReport.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Reports\\TransactionReport.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Reports\\TransactionReport.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Reports\\TransactionReport.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Reports\\TransactionReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-17T05:02:15.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Web.config",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Web.config",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Web.config",
+              "RelativeToolTip": "TheEMIClubApplication\\Web.config",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAowJIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-04T12:45:36.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanFollowUp.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanFollowUp.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\LoanFollowUp.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanFollowUp.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\LoanFollowUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-03T07:28:50.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Startup.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Startup.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Startup.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:46:30.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BLTransfertoAgent.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLTransfertoAgent.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\BussinessLayer\\BLTransfertoAgent.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLTransfertoAgent.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\BussinessLayer\\BLTransfertoAgent.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAhwIYBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:55:09.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CustomerPhotoUpdater.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CustomerPhotoUpdater.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\CustomerPhotoUpdater.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CustomerPhotoUpdater.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\CustomerPhotoUpdater.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAIAwwLUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:39:39.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "loandisburshment.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\loandisburshment.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\loandisburshment.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\loandisburshment.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\loandisburshment.aspx.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAApwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:09:41.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "loandisburshment.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\loandisburshment.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\loandisburshment.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\loandisburshment.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\loandisburshment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-09T05:07:42.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BLLoanApproval.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLLoanApproval.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\BussinessLayer\\BLLoanApproval.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLLoanApproval.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\BussinessLayer\\BLLoanApproval.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAIA0wC0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:54:59.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ManageDisburshment.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageDisburshment.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ManageDisburshment.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageDisburshment.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ManageDisburshment.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:54:19.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageDisburshment.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageDisburshment.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ManageDisburshment.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageDisburshment.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ManageDisburshment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-08T11:17:03.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminBankdetails.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\AdminBankdetails.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\AdminBankdetails.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\AdminBankdetails.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\AdminBankdetails.aspx.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAQwL4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:01:01.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BLReports.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLReports.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\BussinessLayer\\BLReports.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLReports.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\BussinessLayer\\BLReports.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAuwBcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:43:14.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BLSignup.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLSignup.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\BussinessLayer\\BLSignup.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLSignup.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\BussinessLayer\\BLSignup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:43:13.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminBankdetails.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\AdminBankdetails.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\AdminBankdetails.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\AdminBankdetails.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\AdminBankdetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-07T13:50:39.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BLEMIDetails.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLEMIDetails.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\BussinessLayer\\BLEMIDetails.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLEMIDetails.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\BussinessLayer\\BLEMIDetails.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIAwwCsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:29:58.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BLBankdetails.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLBankdetails.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\BussinessLayer\\BLBankdetails.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLBankdetails.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\BussinessLayer\\BLBankdetails.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA3wHwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:28:54.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BLCompanyDetails.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLCompanyDetails.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\BussinessLayer\\BLCompanyDetails.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLCompanyDetails.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\BussinessLayer\\BLCompanyDetails.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIAwwEMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:47:15.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ComapnyMst.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ComapnyMst.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ComapnyMst.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ComapnyMst.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ComapnyMst.aspx.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAApwJAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:47:04.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ComapnyMst.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ComapnyMst.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ComapnyMst.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ComapnyMst.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ComapnyMst.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T11:43:36.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerMaster.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CustomerMaster.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\CustomerMaster.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CustomerMaster.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\CustomerMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T11:43:11.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BLMakePayment.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLMakePayment.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\BussinessLayer\\BLMakePayment.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLMakePayment.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\BussinessLayer\\BLMakePayment.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAApwGAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T10:55:56.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DeviceVariantMaster.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\DeviceVariantMaster.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\DeviceVariantMaster.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\DeviceVariantMaster.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\DeviceVariantMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T09:15:58.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RetailerDetails.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\RetailerDetails.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\RetailerDetails.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\RetailerDetails.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\RetailerDetails.aspx.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAmwLIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:44:35.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RetailerDetails.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\RetailerDetails.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\RetailerDetails.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\RetailerDetails.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\RetailerDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T07:44:33.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ManageCustomer.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageCustomer.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ManageCustomer.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageCustomer.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ManageCustomer.aspx.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAApwOwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:38:36.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ManageRetailer.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageRetailer.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ManageRetailer.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageRetailer.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ManageRetailer.aspx.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwI8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:34:47.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageRetailer.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageRetailer.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ManageRetailer.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageRetailer.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ManageRetailer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T07:34:42.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Customerloandetails.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\Customerloandetails.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\Customerloandetails.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\Customerloandetails.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\Customerloandetails.aspx.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:28:31.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Customerloandetails.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\Customerloandetails.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\Customerloandetails.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\Customerloandetails.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\Customerloandetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T07:27:23.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ManageVariant.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageVariant.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ManageVariant.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageVariant.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ManageVariant.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:56:59.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManageVariant.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageVariant.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ManageVariant.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageVariant.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ManageVariant.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T06:56:56.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BLDeviceMaster.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLDeviceMaster.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\BussinessLayer\\BLDeviceMaster.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLDeviceMaster.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\BussinessLayer\\BLDeviceMaster.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAIAwwBoBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:27:48.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageEmployee.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageEmployee.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ManageEmployee.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageEmployee.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ManageEmployee.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAnwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:18:39.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageEmployee.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageEmployee.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ManageEmployee.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageEmployee.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ManageEmployee.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T05:18:29.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateVariantMaster.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CreateVariantMaster.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\CreateVariantMaster.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CreateVariantMaster.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\CreateVariantMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T13:10:23.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BrandModeMaster.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\BrandModeMaster.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\BrandModeMaster.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\BrandModeMaster.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\BrandModeMaster.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:08:35.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BrandModeMaster.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\BrandModeMaster.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\BrandModeMaster.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\BrandModeMaster.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\BrandModeMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T13:08:30.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BrandMaster.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\BrandMaster.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\BrandMaster.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\BrandMaster.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\BrandMaster.aspx.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAmwNMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:02:38.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BrandMaster.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\BrandMaster.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\BrandMaster.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\BrandMaster.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\BrandMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T13:01:14.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\CommonPages\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\CommonPages\\Home.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\CommonPages\\Home.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\CommonPages\\Home.aspx.cs",
+              "ViewState": "AgIAACMHAAAAAAAAAAAqwC8HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:59:39.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Login.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Login.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Login.aspx.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAvwL0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:50:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Login.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Login.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Login.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T12:44:35.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ApprovedBankdetails.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ApprovedBankdetails.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ApprovedBankdetails.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ApprovedBankdetails.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ApprovedBankdetails.aspx.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAcwIAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:29:00.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BLEmployeeMaster.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLEmployeeMaster.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\BussinessLayer\\BLEmployeeMaster.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\BussinessLayer\\BLEmployeeMaster.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\BussinessLayer\\BLEmployeeMaster.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAIAwwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:06:48.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CreateEmployee.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CreateEmployee.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\CreateEmployee.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CreateEmployee.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\CreateEmployee.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T12:02:18.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageCustomer.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageCustomer.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ManageCustomer.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ManageCustomer.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ManageCustomer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T11:35:23.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "PersonalDetails.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\CustomerDetails\\PersonalDetails.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\CustomerDetails\\PersonalDetails.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\CustomerDetails\\PersonalDetails.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\CustomerDetails\\PersonalDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T11:33:31.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ManageUser.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\ManageUser.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\MembershipPages\\ManageUser.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\ManageUser.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\MembershipPages\\ManageUser.aspx.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwHIBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:39:20.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ManageUser.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\ManageUser.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\MembershipPages\\ManageUser.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\ManageUser.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\MembershipPages\\ManageUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T10:37:08.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CreateEmployee.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CreateEmployee.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\CreateEmployee.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CreateEmployee.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\CreateEmployee.aspx.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAApwIcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:41:37.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateVariantMaster.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CreateVariantMaster.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\CreateVariantMaster.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\CreateVariantMaster.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\CreateVariantMaster.aspx.cs",
+              "ViewState": "AgIAAB8CAAAAAAAAAAApwCsCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:41:37.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ManageRole.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\ManageRole.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\MembershipPages\\ManageRole.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\ManageRole.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\MembershipPages\\ManageRole.aspx.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAYwEQBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:25:55.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateRole.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\CreateRole.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\MembershipPages\\CreateRole.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\CreateRole.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\MembershipPages\\CreateRole.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T09:46:51.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateRole.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\CreateRole.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\MembershipPages\\CreateRole.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\CreateRole.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\MembershipPages\\CreateRole.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwHwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:46:22.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\AppCode\\Constants.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\AppCode\\Constants.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\AppCode\\Constants.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\AppCode\\Constants.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAYwPwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:46:15.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ManageRole.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\ManageRole.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\MembershipPages\\ManageRole.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MembershipPages\\ManageRole.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\MembershipPages\\ManageRole.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T09:41:29.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoanApproval.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanApproval.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\LoanApproval.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanApproval.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\LoanApproval.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:45:00.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoanApproval.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanApproval.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\LoanApproval.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\LoanApproval.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\LoanApproval.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T09:44:33.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PayoutPaymentApproval.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\PayoutPaymentApproval.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\PayoutPaymentApproval.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\PayoutPaymentApproval.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\PayoutPaymentApproval.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T07:37:33.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MakePaymentApproval.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\MakePaymentApproval.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\MakePaymentApproval.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\MakePaymentApproval.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\MakePaymentApproval.aspx.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAEwIwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:49:24.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PayoutPaymentApproval.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\PayoutPaymentApproval.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\PayoutPaymentApproval.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\PayoutPaymentApproval.aspx.cs*",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\PayoutPaymentApproval.aspx.cs*",
+              "ViewState": "AgIAADYBAAAAAAAAAAA4wDkBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:49:24.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MakePaymentApproval.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\MakePaymentApproval.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\MakePaymentApproval.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\MakePaymentApproval.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\MakePaymentApproval.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T07:19:26.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EmiPendingReports.aspx.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Reports\\EmiPendingReports.aspx.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Reports\\EmiPendingReports.aspx.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Reports\\EmiPendingReports.aspx.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\Reports\\EmiPendingReports.aspx.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwEgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:57:40.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmiPendingReports.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Reports\\EmiPendingReports.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Reports\\EmiPendingReports.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Reports\\EmiPendingReports.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Reports\\EmiPendingReports.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T06:53:19.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApprovedBankdetails.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ApprovedBankdetails.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\Admin\\ApprovedBankdetails.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\Admin\\ApprovedBankdetails.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\Admin\\ApprovedBankdetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-24T06:55:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\CommonPages\\Home.aspx",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\CommonPages\\Home.aspx",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\CommonPages\\Home.aspx",
+              "RelativeToolTip": "TheEMIClubApplication\\CommonPages\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-24T06:54:46.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MasterPage.Master.cs",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MasterPage\\MasterPage.Master.cs",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\MasterPage\\MasterPage.Master.cs",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MasterPage\\MasterPage.Master.cs",
+              "RelativeToolTip": "TheEMIClubApplication\\MasterPage\\MasterPage.Master.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAMwHkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:10:44.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MasterPage\\MasterPage.Master",
+              "RelativeDocumentMoniker": "TheEMIClubApplication\\MasterPage\\MasterPage.Master",
+              "ToolTip": "D:\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\TheEMIClubApplication\\MasterPage\\MasterPage.Master",
+              "RelativeToolTip": "TheEMIClubApplication\\MasterPage\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-24T06:09:26.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

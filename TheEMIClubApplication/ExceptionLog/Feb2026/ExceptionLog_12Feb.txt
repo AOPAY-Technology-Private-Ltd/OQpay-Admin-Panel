@@ -1,0 +1,18 @@
+On 12-Feb-2026 12:51 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.PayoutPaymentApproval.BtnRejectSelected_Click(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 496
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Feb-2026 12:51 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.PayoutPaymentApproval.BtnRejectSelected_Click(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 496
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Feb-2026 12:53 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.PayoutPaymentApproval.BtnRejectSelected_Click(Object sender, EventArgs e) in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 498
+HelpLink: 
+-------------------------------------------------------------------------------

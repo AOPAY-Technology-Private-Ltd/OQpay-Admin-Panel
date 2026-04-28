@@ -1,0 +1,92 @@
+On 24-Feb-2024 03:40 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click1(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 774
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Feb-2024 03:40 PM, following SQL error occured in the application:
+Message: Invalid object name 'MstEmployee'.
+Procedure Name: usp_GetUserDetailForManageUser
+LineNumber: 27
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 109
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Feb-2024 03:40 PM, following SQL error occured in the application:
+Message: Invalid object name 'MstEmployee'.
+Procedure Name: usp_GetUserDetailForManageUser
+LineNumber: 27
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 109
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Feb-2024 03:41 PM, following SQL error occured in the application:
+Message: Invalid object name 'MstEmployee'.
+Procedure Name: usp_GetUserDetailForManageUser
+LineNumber: 27
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 109
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Feb-2024 06:43 PM, following SQL error occured in the application:
+Message: Invalid object name 'MstEmployee'.
+Procedure Name: usp_GetUserDetailForManageUser
+LineNumber: 27
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 109
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Feb-2024 06:43 PM, following SQL error occured in the application:
+Message: Invalid object name 'MstEmployee'.
+Procedure Name: usp_GetUserDetailForManageUser
+LineNumber: 27
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 109
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Feb-2024 06:43 PM, following SQL error occured in the application:
+Message: Invalid object name 'MstEmployee'.
+Procedure Name: usp_GetUserDetailForManageUser
+LineNumber: 27
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.ManageUser.GetUserDetail() in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 109
+   at TheEMIClubApplication.MembershipPages.ManageUser.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\ManageUser.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Feb-2024 06:52 PM, following error occured in the application:
+Message: Thread was being aborted.
+Source: mscorlib
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpServerUtility.Transfer(String path)
+   at TheEMIClubApplication.MembershipPages.CreateRole.btnCancel_Click1(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\MembershipPages\CreateRole.aspx.cs:line 774
+HelpLink: 
+-------------------------------------------------------------------------------

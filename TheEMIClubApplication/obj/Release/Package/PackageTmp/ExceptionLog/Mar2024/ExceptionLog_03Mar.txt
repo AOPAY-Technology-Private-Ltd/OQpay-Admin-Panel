@@ -1,0 +1,22 @@
+On 03-Mar-2024 01:31 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Mar-2024 09:34 PM, following error occured in the application:
+Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.CreateEmiShudule()
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCreateEmi_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 03-Mar-2024 09:43 PM, following error occured in the application:
+Message: The SqlParameterCollection only accepts non-null SqlParameter type objects.
+Parameter name: value
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.CreateEmiShudule()
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCreateEmi_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

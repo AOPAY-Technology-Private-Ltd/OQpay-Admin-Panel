@@ -1,0 +1,27 @@
+On 22-Sep-2025 11:37 AM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 22-Sep-2025 11:38 AM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 22-Sep-2025 11:43 AM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId)
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

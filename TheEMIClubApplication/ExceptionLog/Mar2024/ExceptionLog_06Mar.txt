@@ -1,0 +1,30 @@
+On 06-Mar-2024 01:05 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_UpdateAssignApplictiontoUser' expects parameter '@Assigncode', which was not supplied.
+Procedure Name: usp_UpdateAssignApplictiontoUser
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.AssignApplicationToUser()
+   at TheEMIClubApplication.CustomerDetails.AssignApplicationToUser.btnSubmit_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 06-Mar-2024 01:07 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.AssignApplicationToUser.btnSubmit_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 06-Mar-2024 06:53 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_getApprovedLoanDetailsforDisburshment' expects parameter '@CustName', which was not supplied.
+Procedure Name: usp_getApprovedLoanDetailsforDisburshment
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.Admin.ManageDisbursement.GetLoanApplicationforDisbursement() in D:\LoanManagment\TheEMIClubApplication\Admin\ManageDisbursement.aspx.cs:line 77
+   at TheEMIClubApplication.Admin.ManageDisbursement.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\ManageDisbursement.aspx.cs:line 27
+HelpLink: 
+-------------------------------------------------------------------------------

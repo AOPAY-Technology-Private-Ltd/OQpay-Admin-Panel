@@ -1,0 +1,278 @@
+On 04-Mar-2024 12:24 PM, following error occured in the application:
+Message: There is already an open DataReader associated with this Command which must be closed first.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetuserDetail() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 120
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 42
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:46 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:46 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:46 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:46 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:46 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:46 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:46 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:46 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:47 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\CreateEmi.aspx.cs:line 91
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:47 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\CreateEmi.aspx.cs:line 91
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:47 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\CreateEmi.aspx.cs:line 91
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:47 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\CreateEmi.aspx.cs:line 91
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:48 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:48 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:48 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:48 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:52 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 04:55 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 05:03 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 05:20 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\CreateEmi.aspx.cs:line 84
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 05:24 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\CreateEmi.aspx.cs:line 84
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 05:28 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCalculate_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 05:30 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCreateEmi_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 05:32 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at TheEMIClubApplication.CustomerDetails.CreateEmi.btnCreateEmi_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 06:50 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'ImageId'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 06:52 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'RID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 06:56 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'RID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 06:58 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'RID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 06:59 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'RID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 07:12 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'RID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 07:20 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'loanId'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 07:22 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'loanId'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 07:22 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'loanId'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 07:23 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'loanId'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------
+On 04-Mar-2024 07:25 PM, following error occured in the application:
+Message: DataBinding: 'System.Collections.DictionaryEntry' does not contain a property with the name 'loanId'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetUserDoc() in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 104
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 44
+HelpLink: 
+-------------------------------------------------------------------------------

@@ -1,0 +1,231 @@
+On 07-Mar-2024 01:11 AM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 139
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:14 AM, following error occured in the application:
+Message: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction()
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:15 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_insertDisbursementTransaction' expects parameter '@DisbursementBy', which was not supplied.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction()
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:19 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_insertDisbursementTransaction' expects parameter '@Loantype', which was not supplied.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction()
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:22 AM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 139
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:22 AM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 139
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:24 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_insertDisbursementTransaction' expects parameter '@Loantype', which was not supplied.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction() in D:\LoanManagment\TheEMIClubApplication\BussinessLayer\BLPersonalDetails.cs:line 347
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 157
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:27 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_insertDisbursementTransaction' expects parameter '@Loantype', which was not supplied.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction()
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:28 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_insertDisbursementTransaction' expects parameter '@parmUserName', which was not supplied.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction()
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:29 AM, following SQL error occured in the application:
+Message: Procedure or function usp_insertDisbursementTransaction has too many arguments specified.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8144
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction()
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:36 AM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 139
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:36 AM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 144
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:36 AM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 144
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:39 AM, following SQL error occured in the application:
+Message: Procedure or function usp_insertDisbursementTransaction has too many arguments specified.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8144
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction() in D:\LoanManagment\TheEMIClubApplication\BussinessLayer\BLPersonalDetails.cs:line 348
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 157
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:43 AM, following SQL error occured in the application:
+Message: Procedure or function usp_insertDisbursementTransaction has too many arguments specified.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8144
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction() in D:\LoanManagment\TheEMIClubApplication\BussinessLayer\BLPersonalDetails.cs:line 348
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 157
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:48 AM, following SQL error occured in the application:
+Message: Procedure or function usp_insertDisbursementTransaction has too many arguments specified.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8144
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction()
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 01:56 AM, following SQL error occured in the application:
+Message: Procedure or function usp_insertDisbursementTransaction has too many arguments specified.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8144
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction()
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 02:09 AM, following SQL error occured in the application:
+Message: Procedure or function usp_insertDisbursementTransaction has too many arguments specified.
+Procedure Name: usp_insertDisbursementTransaction
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8144
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.DisbursementTransaction()
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 11:19 AM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 40
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 02:52 PM, following error occured in the application:
+Message: Unable to cast object of type 'System.Web.UI.AttributeCollection' to type 'System.IConvertible'.
+Source: mscorlib
+Stack Trace:    at System.Convert.ToDateTime(Object value)
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\Disbursement.aspx.cs:line 139
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 02:53 PM, following error occured in the application:
+Message: Unable to cast object of type 'System.Web.UI.HtmlControls.HtmlInputText' to type 'System.IConvertible'.
+Source: mscorlib
+Stack Trace:    at System.Convert.ToDateTime(Object value)
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 03:02 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 03:08 PM, following error occured in the application:
+Message: String was not recognized as a valid DateTime.
+Source: mscorlib
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at TheEMIClubApplication.Admin.Disbursement.btnDisbursement_click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 07-Mar-2024 07:00 PM, following error occured in the application:
+Message: Object reference not set to an instance of an object.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.Disbursement.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

@@ -1,0 +1,232 @@
+On 15-Nov-2025 12:35 PM, following SQL error occured in the application:
+Message: Conversion failed when converting the varchar value 'DL0021' to data type int.
+Procedure Name: usp_GetPendingHoldamt
+LineNumber: 10
+ErrorCode: -2146232060
+Error Number (Type of Error): 245
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLTransfertoAgent.GetPendingHoldAmt() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLTransfertoAgent.cs:line 355
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridHoldAmt() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 246
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 12:35 PM, following SQL error occured in the application:
+Message: Conversion failed when converting the varchar value 'DL0022' to data type int.
+Procedure Name: usp_GetPendingHoldamt
+LineNumber: 10
+ErrorCode: -2146232060
+Error Number (Type of Error): 245
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLTransfertoAgent.GetPendingHoldAmt() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLTransfertoAgent.cs:line 355
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridHoldAmt() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 246
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 12:35 PM, following SQL error occured in the application:
+Message: Conversion failed when converting the varchar value 'DL0021' to data type int.
+Procedure Name: usp_GetPendingHoldamt
+LineNumber: 10
+ErrorCode: -2146232060
+Error Number (Type of Error): 245
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLTransfertoAgent.GetPendingHoldAmt() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLTransfertoAgent.cs:line 355
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridHoldAmt() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 246
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 12:49 PM, following error occured in the application:
+Message: A field or property with the name 'FlagRemarks' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridHoldAmt() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 262
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 12:50 PM, following error occured in the application:
+Message: A field or property with the name 'FlagRemarks' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridHoldAmt() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 262
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 12:50 PM, following error occured in the application:
+Message: A field or property with the name 'FlagRemarks' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Admin.PayoutPaymentApproval.BindPendingApprovalGridHoldAmt() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\PayoutPaymentApproval.aspx.cs:line 262
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 05:27 PM, following error occured in the application:
+Message: A field or property with the name 'txnNumber' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.Reports.EmiPendingReports.BindGridView() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Reports\EmiPendingReports.aspx.cs:line 75
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:07 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'RID'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 183
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:09 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'RID'.
+Source: System.Web
+Stack Trace:    at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 183
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:09 PM, following error occured in the application:
+Message: A field or property with the name 'EMIAmount' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 183
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:10 PM, following error occured in the application:
+Message: A field or property with the name 'EMIAmount' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 183
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:11 PM, following error occured in the application:
+Message: A field or property with the name 'ActiveStatus' was not found on the selected data source.
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.BoundField.TryGetSimplePropertyValue(Object dataItem, Object& data)
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.BindGridView() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 183
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:13 PM, following error occured in the application:
+Message: Column 'EMIAmt' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 456
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:13 PM, following error occured in the application:
+Message: Column 'EMIAmt' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 456
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:17 PM, following error occured in the application:
+Message: Column 'EMIAmt' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 456
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:17 PM, following error occured in the application:
+Message: Column 'EMIAmt' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e) in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\MakePaymentApproval.aspx.cs:line 456
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:18 PM, following error occured in the application:
+Message: Column 'ReceiptImagePath' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 15-Nov-2025 06:27 PM, following error occured in the application:
+Message: Column 'EMIAmt' does not belong to table MakePaymentDetails.
+Source: System.Data
+Stack Trace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TheEMIClubApplication.MasterPage.MakePaymentApproval.gvMakePayment_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

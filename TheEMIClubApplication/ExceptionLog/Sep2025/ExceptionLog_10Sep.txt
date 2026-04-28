@@ -1,0 +1,338 @@
+On 10-Sep-2025 12:06 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 12:46 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 12:48 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 01:25 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 01:29 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 02:15 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 03:03 PM, following error occured in the application:
+Message: Message does not exists - INF1002
+Parameter name: messageId
+Source: AVFramework
+Stack Trace:    at AVFramework.Common.GetMessageFromXMLFile(String messageId)
+   at TheEMIClubApplication.AppCode.PortalCommon.GetMessageWithImage_LoginPage(PageLevel pageLevel, String messageId) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 337
+   at TheEMIClubApplication.Login.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 94
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 06:41 PM, following error occured in the application:
+Message: 'ddlFollowUpStatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+Source: System.Web
+Stack Trace:    at System.Web.UI.WebControls.ListControl.set_SelectedValue(String value)
+   at AVFramework.Common.ClearFields(Page page, String defaultDropDownValue)
+   at TheEMIClubApplication.Admin.LoanFollowUp.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 06:51 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 06:53 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 06:54 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 06:56 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 06:56 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 06:57 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 66
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:01 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 66
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:02 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 66
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:10 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:12 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:15 PM, following error occured in the application:
+Message: Invalid length for a Base-64 char array or string.
+Source: AVFramework
+Stack Trace:    at AVFramework.CryptoUtil.DecryptTripleDES(String value)
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 10-Sep-2025 07:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.CommonPages.Home.grdAssignView_RowCommand(Object sender, GridViewCommandEventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------

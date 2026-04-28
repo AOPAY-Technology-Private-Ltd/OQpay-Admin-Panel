@@ -1,0 +1,1219 @@
+On 24-Jul-2025 10:10 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_BindDropDownList'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.MembershipPages.CreateMenu.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 28
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:30 AM, following SQL error occured in the application:
+Message: Invalid object name 'MstMasterCodeDet'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 316
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.MembershipPages.CreateMenu.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 32
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:35 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetMasterCodeList'.
+Procedure Name: usp_GetMasterCodeList
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateApplication.GetApplicationTypeCode() in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateApplication.aspx.cs:line 271
+   at TheEMIClubApplication.MembershipPages.CreateApplication.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateApplication.aspx.cs:line 35
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:40 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetMasterCodeList'.
+Procedure Name: usp_GetMasterCodeList
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateApplication.GetApplicationTypeCode() in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateApplication.aspx.cs:line 271
+   at TheEMIClubApplication.MembershipPages.CreateApplication.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateApplication.aspx.cs:line 35
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:41 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetMasterCodeList'.
+Procedure Name: usp_GetMasterCodeList
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateApplication.GetApplicationTypeCode() in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateApplication.aspx.cs:line 271
+   at TheEMIClubApplication.MembershipPages.CreateApplication.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateApplication.aspx.cs:line 35
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:41 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetMasterCodeList'.
+Procedure Name: usp_GetMasterCodeList
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateApplication.GetApplicationTypeCode() in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateApplication.aspx.cs:line 271
+   at TheEMIClubApplication.MembershipPages.CreateApplication.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateApplication.aspx.cs:line 35
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:42 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:46 AM, following SQL error occured in the application:
+Message: Invalid object name 'MstMasterCodeDet'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 316
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.MembershipPages.CreateMenu.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 32
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:46 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetDisplayOrder'.
+Procedure Name: usp_GetDisplayOrder
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.GetDisplayOrder(String applicationCode) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 121
+   at TheEMIClubApplication.MembershipPages.CreateMenu.ddlApplicationName_SelectedIndexChanged(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 163
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:50 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:55 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetDisplayOrder'.
+Procedure Name: usp_GetDisplayOrder
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.GetDisplayOrder(String applicationCode) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 121
+   at TheEMIClubApplication.MembershipPages.CreateMenu.ddlApplicationName_SelectedIndexChanged(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 163
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:58 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetDisplayOrder'.
+Procedure Name: usp_GetDisplayOrder
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.GetDisplayOrder(String applicationCode) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 121
+   at TheEMIClubApplication.MembershipPages.CreateMenu.ddlApplicationName_SelectedIndexChanged(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 163
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 10:58 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetDisplayOrder'.
+Procedure Name: usp_GetDisplayOrder
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.GetDisplayOrder(String applicationCode) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 121
+   at TheEMIClubApplication.MembershipPages.CreateMenu.ddlApplicationName_SelectedIndexChanged(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 163
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:00 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:02 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetDisplayOrder'.
+Procedure Name: usp_GetDisplayOrder
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.GetDisplayOrder(String applicationCode) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 121
+   at TheEMIClubApplication.MembershipPages.CreateMenu.ddlApplicationName_SelectedIndexChanged(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 163
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:08 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_CreateMenu'.
+Procedure Name: usp_CreateMenu
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus() in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 251
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 276
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:09 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_InsertAuditLog'.
+Procedure Name: usp_InsertAuditLog
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus() in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 251
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 276
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:10 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_InsertAuditLog'.
+Procedure Name: usp_InsertAuditLog
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus() in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 251
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 276
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:23 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_InsertAuditLog'.
+Procedure Name: usp_InsertAuditLog
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus() in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 251
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 276
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:24 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_InsertAuditLog'.
+Procedure Name: usp_InsertAuditLog
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.CreateMenus() in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 251
+   at TheEMIClubApplication.MembershipPages.CreateMenu.btnSaveMenu_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 276
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:25 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:29 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetDisplayOrder'.
+Procedure Name: usp_GetDisplayOrder
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.GetDisplayOrder(String applicationCode) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 121
+   at TheEMIClubApplication.MembershipPages.CreateMenu.ddlApplicationName_SelectedIndexChanged(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 163
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:33 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetDisplayOrder'.
+Procedure Name: usp_GetDisplayOrder
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.MembershipPages.CreateMenu.GetDisplayOrder(String applicationCode) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 121
+   at TheEMIClubApplication.MembershipPages.CreateMenu.ddlApplicationName_SelectedIndexChanged(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\MembershipPages\CreateMenu.aspx.cs:line 163
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:38 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:38 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:42 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:42 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:42 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:47 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:47 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:50 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 11:50 AM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:01 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:03 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:03 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:07 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:10 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:31 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:32 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:39 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:47 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:48 PM, following error occured in the application:
+Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CustomerID'.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.GetRecentLoanApplicationforuser() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 325
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 39
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:52 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:53 PM, following SQL error occured in the application:
+Message: Invalid object name 'Users'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 398
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 36
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:53 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:53 PM, following SQL error occured in the application:
+Message: Invalid object name 'Users'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 398
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.CustomerDetails.AssignApplicationToUser.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\AssignApplicationToUser.aspx.cs:line 29
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:53 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 12:56 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:00 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:01 PM, following SQL error occured in the application:
+Message: Invalid object name 'Users'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 398
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 36
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:01 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:02 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:03 PM, following SQL error occured in the application:
+Message: Invalid object name 'Users'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 398
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 36
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:24 PM, following SQL error occured in the application:
+Message: Invalid object name 'Users'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 398
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 36
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:26 PM, following SQL error occured in the application:
+Message: Invalid object name 'Users'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 398
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 36
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:26 PM, following SQL error occured in the application:
+Message: Invalid object name 'Users'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 398
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 36
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:27 PM, following SQL error occured in the application:
+Message: Invalid object name 'Users'.
+Procedure Name: usp_BindDropDownList
+LineNumber: 398
+ErrorCode: -2146232060
+Error Number (Type of Error): 208
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.AppCode.PortalCommon.BindDropDownList(DropDownList ddlControlId, String flag, String flag1, String flag2, String flag3, String flag4, String flag5, String selectedText) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 1185
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 36
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:30 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 01:31 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_Getdoucmentlist'.
+Procedure Name: usp_Getdoucmentlist
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetImageItemsFromDatabase(String connectionString, String storedProcedureName, String loanId)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.BindGridView(String loanid)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:14 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:18 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_Getdoucmentlist'.
+Procedure Name: usp_Getdoucmentlist
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetImageItemsFromDatabase(String connectionString, String storedProcedureName, String loanId) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 97
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.BindGridView(String loanid) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 76
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 47
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:32 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:33 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetPersonaldetails'.
+Procedure Name: usp_GetPersonaldetails
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetuserDetail() in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 219
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 45
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:36 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_GetPendingCustomer' expects parameter '@parmStatus', which was not supplied.
+Procedure Name: usp_GetPendingCustomer
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetuserDetail()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:42 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:43 PM, following SQL error occured in the application:
+Message: Procedure or function 'usp_GetPendingCustomer' expects parameter '@parmStatus', which was not supplied.
+Procedure Name: usp_GetPendingCustomer
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetuserDetail() in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 219
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 45
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:43 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:46 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_Getdoucmentlist'.
+Procedure Name: usp_Getdoucmentlist
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetImageItemsFromDatabase(String connectionString, String storedProcedureName, String loanId)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.BindGridView(String loanid)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:53 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation()
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 02:54 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_Getdoucmentlist'.
+Procedure Name: usp_Getdoucmentlist
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetImageItemsFromDatabase(String connectionString, String storedProcedureName, String loanId)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.BindGridView(String loanid)
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:22 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:24 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:24 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_Getdoucmentlist'.
+Procedure Name: usp_Getdoucmentlist
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetImageItemsFromDatabase(String connectionString, String storedProcedureName, String loanId) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 98
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.BindGridView(String loanid) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 77
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 48
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:25 PM, following error occured in the application:
+Message: Index was outside the bounds of the array.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.RetailerStatusUpdate()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:28 PM, following error occured in the application:
+Message: String[3]: the Size property has an invalid size of 0.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.RetailerStatusUpdate()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:29 PM, following SQL error occured in the application:
+Message: Could not find stored procedure ''.
+Procedure Name: 
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.RetailerStatusUpdate()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:37 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:37 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_Getdoucmentlist'.
+Procedure Name: usp_Getdoucmentlist
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetImageItemsFromDatabase(String connectionString, String storedProcedureName, String loanId) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 98
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.BindGridView(String loanid) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 77
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 48
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:40 PM, following SQL error occured in the application:
+Message: Error converting data type nvarchar to int.
+Procedure Name: usp_UpdateRetailerStatus
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8114
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.RetailerStatusUpdate()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.btnSave_Click(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:41 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:41 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_Getdoucmentlist'.
+Procedure Name: usp_Getdoucmentlist
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetImageItemsFromDatabase(String connectionString, String storedProcedureName, String loanId) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 98
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.BindGridView(String loanid) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 77
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 48
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:43 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:43 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_Getdoucmentlist'.
+Procedure Name: usp_Getdoucmentlist
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.GetImageItemsFromDatabase(String connectionString, String storedProcedureName, String loanId) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 98
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.BindGridView(String loanid) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 77
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 48
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:44 PM, following SQL error occured in the application:
+Message: Error converting data type nvarchar to int.
+Procedure Name: usp_UpdateRetailerStatus
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 8114
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLPersonalDetails.RetailerStatusUpdate() in D:\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLPersonalDetails.cs:line 186
+   at TheEMIClubApplication.CustomerDetails.PersonalDetails.btnSave_Click(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CustomerDetails\PersonalDetails.aspx.cs:line 274
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:52 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:55 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 03:57 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 04:17 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 04:54 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 05:31 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation()
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 05:41 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 05:48 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 05:49 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 05:54 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 06:00 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 06:09 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 06:15 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 06:25 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 06:27 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 06:29 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 06:34 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 06:45 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 07:00 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------
+On 24-Jul-2025 07:11 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_count'.
+Procedure Name: usp_count
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.155.85.146
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.CommonPages.Home.Applicationcalculation() in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 356
+   at TheEMIClubApplication.CommonPages.Home.Page_Load(Object sender, EventArgs e) in D:\TheEMIClubApplication\TheEMIClubApplication\CommonPages\Home.aspx.cs:line 43
+HelpLink: 
+-------------------------------------------------------------------------------

@@ -1,0 +1,148 @@
+﻿<!DOCTYPE >
+<html>
+<head>
+    <title>Maintenance Mail</title>
+    <style type="text/css">
+        body {
+            vertical-align: top;
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            /*background-color: #F3F3F1; prod - #A6193B*/
+        }
+
+        td {
+            line-height: 30px;
+        }
+
+        .DefaultTableStyle {
+            border-color: #C3D8F1; /*#aaa*/
+            border-style: solid;
+            border-width: 1px;
+        }
+
+        .SectionHeader {
+            background-color: #76d5f9; /*#3AA3DD; /*#ccff99;*/
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            font-weight: bold;
+            color: White;
+        }
+
+        .PaddingLeft_10 {
+            padding: 0px 0px 0px 10px;
+            text-align: left;
+        }
+
+        .PaddingRight_10 {
+            padding: 0px 10px 0px 0px;
+            text-align: right;
+        }
+
+        .NormalHyperLink {
+            font-family: Verdana, Arial, Helvetica, Sans-Serif;
+            font-size: 14px;
+            color: #0000ff;
+        }
+
+            .NormalHyperLink a {
+                font-family: Verdana, Arial, Helvetica, Sans-Serif;
+                font-size: 14px;
+                color: #0000ff;
+                text-decoration: none;
+            }
+
+                .NormalHyperLink a:hover {
+                    font-family: Verdana, Arial, Helvetica, Sans-Serif;
+                    font-size: 14px;
+                    font-weight: bold;
+                    color: #A6193B;
+                    text-decoration: none;
+                }
+    </style>
+</head>
+<body>
+    <!--<table cellpadding="0" cellspacing="0" style="width: 100%; margin: 10px 0px 0px 10px;" class="DefaultTableStyle">-->
+    <table cellpadding="0" cellspacing="0" style="width: 100%; margin: 10px 0px 0px 10px;">
+        <!--<tr class="SectionHeader">
+            <td class="PaddingLeft_10" colspan="2">
+                AFM Suite Maintenance
+            </td>
+        </tr>-->
+        <tr>
+            <td class="PaddingLeft_10" colspan="2"></td>
+        </tr>
+        <!--<tr>
+            <td align="center" colspan="2">
+                <b> Down For : <u>@MaintananceType</u></b>
+            </td>
+        </tr>-->
+        <tr>
+            <td class="PaddingLeft_10" colspan="2"><br /></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                Dear Customer,
+            </td>
+        </tr>
+        <tr>
+            <td class="PaddingLeft_10" colspan="2"><br /></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                AFM will be temporarily unavailable for schedule maintenance from <b>@StartDate @StartTime</b> to <b>@EndDate @EndTime</b>.
+            </td>
+        </tr>
+        <tr>
+            <td class="PaddingLeft_10" colspan="2"><br />Down For : <u>@MaintananceType</u></td>
+        </tr>
+        <!--<tr>
+            <td class="PaddingLeft_10" colspan="2" >
+                The downtime will be from <b>@StartDate @StartTime</b> to <b>@EndDate @EndTime</b>
+            </td>
+        </tr>-->
+        <tr>
+            <td class="PaddingLeft_10" colspan="2">
+                <br />
+                <!--The Reason of above Maintenance. =--> @Reason
+            </td>
+        </tr>
+        <tr>
+            <td class="PaddingLeft_10" colspan="2"><br /></td>
+        </tr>
+        <tr>
+            <td class="PaddingLeft_10" colspan="2">
+                <!--The Impact of above Maintenance. =--> @Impact
+            </td>
+        </tr>
+        <tr>
+            <td class="PaddingLeft_10" colspan="2"><br/></td>
+        </tr>
+        <tr>
+            <td class="PaddingLeft_10" colspan="2" >
+                Please contact our support Team, if you need any assistance.
+            </td>
+        </tr>
+        <tr>
+            <td class="PaddingLeft_10" colspan="2"><br/></td>
+        </tr>
+        <tr>
+            <td class="PaddingLeft_10" colspan="2">
+                <b>Thanks/Regards,</b>
+            </td>
+        </tr>
+        <tr>
+            <td class="PaddingLeft_10" colspan="2"></td>
+        </tr>
+        <tr>
+            <td class="PaddingLeft_10" colspan="2" >
+                <b>Avaal Technology.</b>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <!--<img src="../Images/Advertise.JPG" />-->
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

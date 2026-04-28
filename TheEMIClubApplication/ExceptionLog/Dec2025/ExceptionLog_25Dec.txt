@@ -1,0 +1,36 @@
+On 25-Dec-2025 11:12 AM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at TheEMIClubApplication.MasterPage.Loansettlement.EMISettelment()
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Dec-2025 11:36 AM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: mscorlib
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at TheEMIClubApplication.MasterPage.Loansettlement.EMISettelment() in D:\OQPayWebApplication28102025\TheEMIClubApplication\TheEMIClubApplication\Admin\Loansettlement.aspx.cs:line 236
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Dec-2025 11:37 AM, following error occured in the application:
+Message: Index was outside the bounds of the array.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLLoanApproval.LoanSettlementEMI()
+   at TheEMIClubApplication.MasterPage.Loansettlement.EMISettelment()
+HelpLink: 
+-------------------------------------------------------------------------------
+On 25-Dec-2025 11:39 AM, following SQL error occured in the application:
+Message: Procedure or function 'usp_SettlementEMI' expects parameter '@EmployeeCode', which was not supplied.
+Procedure Name: usp_SettlementEMI
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): 201
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.BLLoanApproval.LoanSettlementEMI()
+   at TheEMIClubApplication.MasterPage.Loansettlement.EMISettelment()
+HelpLink: 
+-------------------------------------------------------------------------------

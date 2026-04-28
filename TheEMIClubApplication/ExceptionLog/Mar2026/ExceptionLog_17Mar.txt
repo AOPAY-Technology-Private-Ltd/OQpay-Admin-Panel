@@ -1,0 +1,26 @@
+On 17-Mar-2026 12:34 PM, following SQL error occured in the application:
+Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+Procedure Name: 
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): -2
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.APPMenuBase.GetMenu() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\APPMenuBase.cs:line 56
+   at TheEMIClubApplication.Login.GetMenuData() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 373
+   at TheEMIClubApplication.Login.UserLogin() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 250
+HelpLink: 
+-------------------------------------------------------------------------------
+On 17-Mar-2026 02:07 PM, following SQL error occured in the application:
+Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+Procedure Name: 
+LineNumber: 0
+ErrorCode: -2146232060
+Error Number (Type of Error): -2
+SQL Server Instance: 103.205.64.76,2499
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.APPMenuBase.GetMenu() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\APPMenuBase.cs:line 56
+   at TheEMIClubApplication.Login.GetMenuData() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 373
+   at TheEMIClubApplication.Login.UserLogin() in D:\OQPay Projects\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 250
+HelpLink: 
+-------------------------------------------------------------------------------

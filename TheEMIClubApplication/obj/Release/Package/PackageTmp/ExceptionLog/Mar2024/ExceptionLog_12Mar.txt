@@ -1,0 +1,42 @@
+On 12-Mar-2024 02:21 PM, following error occured in the application:
+Message: A field or property with the name 'LoanType' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.ManageSettlement.GetLoanApplicationforDisbursement()
+   at TheEMIClubApplication.Admin.ManageSettlement.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Mar-2024 02:21 PM, following error occured in the application:
+Message: A field or property with the name 'LoanType' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.ManageSettlement.GetLoanApplicationforDisbursement()
+   at TheEMIClubApplication.Admin.ManageSettlement.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Mar-2024 02:21 PM, following error occured in the application:
+Message: A field or property with the name 'LoanType' was not found on the selected data source.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.ManageSettlement.GetLoanApplicationforDisbursement()
+   at TheEMIClubApplication.Admin.ManageSettlement.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Mar-2024 03:20 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.ApprovedSettlement.GetSettlementDetail()
+   at TheEMIClubApplication.Admin.ApprovedSettlement.Page_Load(Object sender, EventArgs e)
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Mar-2024 03:21 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.ApprovedSettlement.GetSettlementDetail() in D:\LoanManagment\TheEMIClubApplication\Admin\ApprovedSettlement.aspx.cs:line 118
+   at TheEMIClubApplication.Admin.ApprovedSettlement.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\ApprovedSettlement.aspx.cs:line 42
+HelpLink: 
+-------------------------------------------------------------------------------
+On 12-Mar-2024 03:22 PM, following error occured in the application:
+Message: Input string was not in a correct format.
+Source: TheEMIClubApplication
+Stack Trace:    at TheEMIClubApplication.Admin.ApprovedSettlement.GetSettlementDetail() in D:\LoanManagment\TheEMIClubApplication\Admin\ApprovedSettlement.aspx.cs:line 118
+   at TheEMIClubApplication.Admin.ApprovedSettlement.Page_Load(Object sender, EventArgs e) in D:\LoanManagment\TheEMIClubApplication\Admin\ApprovedSettlement.aspx.cs:line 42
+HelpLink: 
+-------------------------------------------------------------------------------

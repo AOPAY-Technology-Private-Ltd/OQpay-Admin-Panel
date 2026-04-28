@@ -1,0 +1,65 @@
+﻿.section-one{
+    margin-top: 12px;
+}
+.section-one h1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+.para-graph-bar{
+    font-size: 14px;
+}
+.heading-six {
+    color: #696969;
+}
+.section-two ol li{
+    font-size: 15px;
+    padding: 4px 0px;
+}
+.heading-three{
+    font-size: 21px;
+    font-weight: 600;
+}
+.section-three table{
+    width: 70vw;
+}
+.section-three table th{
+    border: 1px solid black;
+    padding: 5px;
+    background: grey;
+    color: white;
+}
+.section-three table td{
+    padding: 5px;
+    border:1px solid grey;
+    font-size: 14px;
+    font-weight: 400;
+}
+.diff-color{
+    background: whitesmoke;
+}
+.parameter-box {
+    border: 1px solid grey;
+    width: 70vw;
+    border-radius: 4px;
+    padding: 5px;
+    background: #E3DCEF;
+}
+.parameter-box pre{
+    font-size: 14px;
+    font-weight: 500;
+}
+@media screen and (max-width: 1200px){
+    .center-table{
+        padding: 0px 12px;
+    }
+    .section-three table {
+        width: 100%;
+    }
+    .parameter-box {
+        border: 1px solid grey;
+        width: 100%;
+        border-radius: 4px;
+        padding: 5px;
+        background: #E3DCEF;
+    }
+}

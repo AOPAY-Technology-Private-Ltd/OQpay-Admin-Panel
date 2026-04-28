@@ -1,0 +1,136 @@
+On 23-Jul-2025 11:22 AM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetMenu_new'.
+Procedure Name: usp_GetMenu_new
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.35.121.85,5022
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.APPMenuBase.GetMenu()
+   at TheEMIClubApplication.Login.GetMenuData()
+   at TheEMIClubApplication.Login.UserLogin()
+HelpLink: 
+-------------------------------------------------------------------------------
+On 23-Jul-2025 01:13 PM, following SQL error occured in the application:
+Message: Cannot open database "EMIClubDB" requested by the login. The login failed.
+Login failed for user 'sa'.
+Procedure Name: 
+LineNumber: 65536
+ErrorCode: -2146232060
+Error Number (Type of Error): 4060
+SQL Server Instance: 103.35.121.85,5022
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.APPMenuBase.GetMenu() in D:\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\APPMenuBase.cs:line 56
+   at TheEMIClubApplication.Login.GetMenuData() in D:\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 172
+   at TheEMIClubApplication.Login.UserLogin() in D:\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 134
+HelpLink: 
+-------------------------------------------------------------------------------
+On 23-Jul-2025 02:36 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_InsertAuditLog'.
+Procedure Name: usp_InsertAuditLog
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.35.121.85,5022
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AVFramework.DBTask.ExecuteUpdate(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLAuditLog.InsertAuditLog() in D:\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLAuditLog.cs:line 95
+   at TheEMIClubApplication.AppCode.PortalCommon.SaveAuditLog_PreLogin(String programCode, String accessDenial_YN, String logCategory, String logAction, String taskModule, String taskDescription, String userName) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 608
+   at TheEMIClubApplication.Login.UserLogin() in D:\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 95
+HelpLink: 
+-------------------------------------------------------------------------------
+On 23-Jul-2025 02:39 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_InsertAuditLog'.
+Procedure Name: usp_InsertAuditLog
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.35.121.85,5022
+Source: .Net SqlClient Data Provider
+Stack Trace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AVFramework.DBTask.ExecuteUpdate(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLAuditLog.InsertAuditLog() in D:\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLAuditLog.cs:line 95
+   at TheEMIClubApplication.AppCode.PortalCommon.SaveAuditLog_PreLogin(String programCode, String accessDenial_YN, String logCategory, String logAction, String taskModule, String taskDescription, String userName) in D:\TheEMIClubApplication\TheEMIClubApplication\AppCode\PortalCommon.cs:line 608
+   at TheEMIClubApplication.Login.UserLogin() in D:\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 95
+HelpLink: 
+-------------------------------------------------------------------------------
+On 23-Jul-2025 02:43 PM, following SQL error occured in the application:
+Message: Conversion failed when converting the varchar value 'Pending' to data type int.
+Procedure Name: usp_UserLogin
+LineNumber: 15
+ErrorCode: -2146232060
+Error Number (Type of Error): 245
+SQL Server Instance: 103.35.121.85,5022
+Source: .Net SqlClient Data Provider
+Stack Trace:    at AVFramework.DBTask.ExecuteHashtable(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLManageUser.UserLogin()
+   at TheEMIClubApplication.Login.UserLogin()
+HelpLink: 
+-------------------------------------------------------------------------------
+On 23-Jul-2025 02:49 PM, following SQL error occured in the application:
+Message: Could not find stored procedure 'usp_GetMenu_new'.
+Procedure Name: usp_GetMenu_new
+LineNumber: 1
+ErrorCode: -2146232060
+Error Number (Type of Error): 2812
+SQL Server Instance: 103.35.121.85,5022
+Source: .Net SqlClient Data Provider
+Stack Trace:    at TheEMIClubApplication.BussinessLayer.APPMenuBase.GetMenu()
+   at TheEMIClubApplication.Login.GetMenuData()
+   at TheEMIClubApplication.Login.UserLogin()
+HelpLink: 
+-------------------------------------------------------------------------------
+On 23-Jul-2025 02:59 PM, following SQL error occured in the application:
+Message: Conversion failed when converting the varchar value 'Pending' to data type int.
+Procedure Name: usp_UserLogin
+LineNumber: 14
+ErrorCode: -2146232060
+Error Number (Type of Error): 245
+SQL Server Instance: 103.35.121.85,5022
+Source: .Net SqlClient Data Provider
+Stack Trace:    at AVFramework.DBTask.ExecuteHashtable(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLManageUser.UserLogin() in D:\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 161
+   at TheEMIClubApplication.Login.UserLogin() in D:\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 91
+HelpLink: 
+-------------------------------------------------------------------------------
+On 23-Jul-2025 03:01 PM, following SQL error occured in the application:
+Message: Conversion failed when converting the varchar value 'Pending' to data type int.
+Procedure Name: usp_UserLogin
+LineNumber: 14
+ErrorCode: -2146232060
+Error Number (Type of Error): 245
+SQL Server Instance: 103.35.121.85,5022
+Source: .Net SqlClient Data Provider
+Stack Trace:    at AVFramework.DBTask.ExecuteHashtable(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLManageUser.UserLogin() in D:\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 161
+   at TheEMIClubApplication.Login.UserLogin() in D:\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 91
+HelpLink: 
+-------------------------------------------------------------------------------
+On 23-Jul-2025 03:04 PM, following SQL error occured in the application:
+Message: Conversion failed when converting the varchar value 'Pending' to data type int.
+Procedure Name: usp_UserLogin
+LineNumber: 14
+ErrorCode: -2146232060
+Error Number (Type of Error): 245
+SQL Server Instance: 103.35.121.85,5022
+Source: .Net SqlClient Data Provider
+Stack Trace:    at AVFramework.DBTask.ExecuteHashtable(String spName, SqlParameter[] sqlParam)
+   at TheEMIClubApplication.BussinessLayer.BLManageUser.UserLogin() in D:\TheEMIClubApplication\TheEMIClubApplication\BussinessLayer\BLManageUser.cs:line 161
+   at TheEMIClubApplication.Login.UserLogin() in D:\TheEMIClubApplication\TheEMIClubApplication\Login.aspx.cs:line 91
+HelpLink: 
+-------------------------------------------------------------------------------
