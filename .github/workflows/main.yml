@@ -1,0 +1,63 @@
+name: OQPay Web Application UAT Deploy
+
+on:
+  push:
+    branches:
+      - UAT
+
+jobs:
+  build-and-deploy:
+    runs-on: windows-latest
+
+    steps:
+      # 1. Checkout code
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # 2. Setup MSBuild
+      - name: Setup MSBuild
+        uses: microsoft/setup-msbuild@v2
+
+      # 3. Setup NuGet
+      - name: Setup NuGet
+        uses: NuGet/setup-nuget@v2
+
+      # 4. Restore NuGet packages
+      - name: Restore NuGet Packages
+        run: nuget restore OQPayWebApplication.csproj
+
+      # 5. Build Solution
+      - name: Build Solution
+        run: |
+          msbuild OQPayWebApplication.csproj `
+          /p:Configuration=Release `
+          /p:DeployOnBuild=true `
+          /p:WebPublishMethod=FileSystem `
+          /p:PublishUrl=publish_output
+
+      # 6. Copy publish folder (artifact)
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: webapp
+          path: publish_output
+
+  #deploy:
+    #needs: build-and-deploy
+    #runs-on: windows-latest
+
+    #steps:
+      # 1. Download artifact
+      #- name: Download Artifact
+        #uses: actions/download-artifact@v4
+        #with:
+          #name: webapp
+          #path: webapp
+
+      # 2. Deploy to IIS Server (via Web Deploy / Copy)
+      #- name: Deploy to IIS
+        #run: |
+          #$source = "$(System.DefaultWorkingDirectory)\webapp"
+          #$destination = "C:\inetpub\wwwroot\OQPay"
+
+          #robocopy $source $destination /MIR /Z /XA:H /W:5
